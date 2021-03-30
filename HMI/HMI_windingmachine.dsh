@@ -204,163 +204,6 @@ Logotipo Omega.jpg
 0
 0
 " origin="480.444095,190.49557" bounds="480.399994,66.9,480.399994,273" id="51" linkmode="1" points="480.399994,66.9,6 480.399994,273,2"/>
-<element name="element1" description="SB0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-1
-1
-0
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
-15263976
-12237498
-16777215
-1
-0
-4
-4
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="394.524993,82.099995" bounds="360.700012,143,468.000012,240" selectmode="0" id="3">
-<element name="SHAPE1" origin="510.700012,293" bounds="360.700012,143,468.000012,240" selectmode="0" visible="false">
-<rect name="rc3" origin="458.868564,209.562044" bounds="360.700012,143,468.000012,240" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="789.783706,601.384429" bounds="360.700012,143,468.000012,240">
-<line name="line1" origin="361.200012,210" bounds="360.700012,143,360.700012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,143,6 360.700012,240,2"/>
-<line name="line2" origin="422.200012,225.526287" bounds="360.700012,240,468.000012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,240,6 468.000012,240,2"/>
-<line name="line3" origin="400.129718,142" bounds="360.700012,143,468.000012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,143,6 468.000012,143,2 468.000012,240,2"/>
-</element>
-<rect name="rc1" origin="714.485596,233.883942" bounds="360.700012,143,468.000012,240" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1057.616254,232.383942" bounds="360.700012,143,468.000012,240" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1341.274162,238.83601" bounds="360.700012,143,468.000012,240" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="400.700012,184" bounds="360.700012,143,468.000012,240" selectmode="0">
-<rect name="rc3" origin="456.90287,293.788078" bounds="360.700012,143,468.000012,240" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="851.208524,698.288566" bounds="360.700012,143,468.000012,240" selectmode="0">
-<line name="line1" origin="361.200012,210" bounds="360.700012,143,360.700012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,143,6 360.700012,240,2"/>
-<line name="line2" origin="422.200012,225.526287" bounds="360.700012,240,468.000012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,240,6 468.000012,240,2"/>
-<line name="line3" origin="400.129718,142" bounds="360.700012,143,468.000012,240" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="360.700012,143,6 468.000012,143,2 468.000012,240,2"/>
-</element>
-<rect name="rc1" origin="704.067834,255.014112" bounds="360.700012,143,468.000012,240" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1051.424526,249.288078" bounds="360.700012,143,468.000012,240" selectmode="0" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="753.700012,251.5" bounds="360.700012,143,468.000012,240" selectmode="0">
-<line name="line1" origin="480.200012,271" bounds="360.700012,155.728507,468.000012,240" backcolor="$808080" pattern="1" linetype="0" linewidth="0" points="368.615586,226.393666,6 360.700012,235.171944,2 371.254111,240,2 450.409848,240,2 468.000012,218.493212,2 468.000012,155.728507,2 383.567226,155.728507,2 383.567226,157.923077,2"/>
-<rect name="rect4" origin="513.200012,241.5" bounds="380.049193,154.411766,461.403702,220.687783" backcolor="$FFFF" pattern="1"/>
-<rect name="rect2" origin="506.200012,250.5" bounds="377.410667,158.361992,457.445913,224.638008" backcolor="$800080" pattern="1"/>
-<rect name="rect3" origin="501.700012,265.5" bounds="373.013128,164.067872,452.168866,229.027148" backcolor="$29B322" pattern="1"/>
-<rect name="rect1" origin="473.200012,276.5" bounds="366.416814,168.895928,446.891814,234.294117" backcolor="$FFFF" pattern="1"/>
-<rect name="rect8" origin="457.700012,156.5" bounds="388.844275,143,417.868045,154.850679" backcolor="$FFFF" pattern="1" linetype="0"/>
-<rect name="rect7" origin="446.700012,165.5" bounds="384.006979,146.950226,413.030749,158.800905" backcolor="$800080" pattern="1" linetype="0"/>
-<rect name="rect6" origin="428.700012,179.5" bounds="376.091405,153.095022,405.115176,164.945702" backcolor="$29B322" pattern="1" linetype="0"/>
-<rect name="rect5" origin="406.700012,189.5" bounds="366.416814,157.484162,395.440586,169.334841" backcolor="$FFFF" pattern="1"/>
-</element>
-<text name="txt1" origin="1318.178298,259.966181" bounds="360.700012,143,468.000012,240" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
-</element>
-</element>
-<text name="text3" description="16777215
-255
-0
-0
-0
-5
-0
-0
-0
-4
-0
-100
-System
-Direcciones HMI/PLC
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="423.777897,95.883802" bounds="341.799988,83.5,477.199988,123.7" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="14" text="Direcciones HMI/PLC"/>
-<line name="line2" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="340.022171,166.999994" bounds="340,69,340,273" id="51" linkmode="1" points="340,69,6 340,273,2"/>
 <text name="text2" description="16777215
 255
 0
@@ -374,7 +217,8 @@ Direcciones HMI/PLC
 0
 100
 System
-Iniciar
+¿El alambre está tensado? Presiona el botón verde.
+
 0
 2
 0
@@ -391,7 +235,8 @@ Iniciar
 0
 0
 0
-" origin="251.127891,83.933814" bounds="170.100006,71.699997,314.400006,111.899997" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="21" text="Iniciar"/>
+" origin="165.127891,93.933814" bounds="84.099998,72,404.999998,157" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="21" text="¿El alambre está tensado? Presiona el botón verde.
+"/>
 <element name="element6" description="MF0000
 0
 1
@@ -437,24 +282,18 @@ System
 16777215
 16777215
 1
-1
+2
 3
 Screen jump to  1 Screen
 1 Screen
 1
 0
 2
-0
+1
+Reset the coil Y3
+Y3
 
-
-
--1
-0
-0
-
-
-
--1
+1
 0
 0
 
@@ -484,6 +323,12 @@ Screen jump to  1 Screen
 
 
 
+-1
+0
+0
+
+
+
 0
 0
 0
@@ -491,11 +336,11 @@ Screen jump to  1 Screen
 0
 
 
+1
 0
-0
-0
-
-
+1
+Y
+3
 0
 0
 0
@@ -562,500 +407,43 @@ Screen jump to  1 Screen
 0
 0
 0
-" origin="116.532323,55.963236" bounds="165.5,115.4,324.4,273" selectmode="0" id="78">
-<element name="SHAPE1" origin="408.564783,277.694143" bounds="165.5,115.4,324.4,273" selectmode="0" visible="false">
-<rect name="rc3" origin="263.668552,181.962044" bounds="165.5,115.4,324.4,273" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="594.583694,573.784429" bounds="165.5,115.4,324.4,273">
-<line name="line1" origin="166,182.4" bounds="165.5,115.4,165.5,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,115.4,6 165.5,273,2"/>
-<line name="line2" origin="227,197.926287" bounds="165.5,273,324.4,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,273,6 324.4,273,2"/>
-<line name="line3" origin="204.929706,114.4" bounds="165.5,115.4,324.4,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,115.4,6 324.4,115.4,2 324.4,273,2"/>
+" origin="97.532323,38.963236" bounds="181,146,305.4,258" selectmode="0" id="78">
+<element name="SHAPE1" origin="389.564783,262.694143" bounds="181,146,305.4,258" selectmode="0" visible="false">
+<rect name="rc3" origin="279.168552,212.562044" bounds="181,146,305.4,258" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="610.083694,604.384429" bounds="181,146,305.4,258">
+<line name="line1" origin="181.5,213" bounds="181,146,181,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,146,6 181,258,2"/>
+<line name="line2" origin="242.5,228.526287" bounds="181,258,305.4,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,258,6 305.4,258,2"/>
+<line name="line3" origin="220.429706,145" bounds="181,146,305.4,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,146,6 305.4,146,2 305.4,258,2"/>
 </element>
-<rect name="rc1" origin="519.285584,206.283942" bounds="165.5,115.4,324.4,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="862.416242,204.783942" bounds="165.5,115.4,324.4,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1146.07415,211.23601" bounds="165.5,115.4,324.4,273" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+<rect name="rc1" origin="534.785584,236.883942" bounds="181,146,305.4,258" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="877.916242,235.383942" bounds="181,146,305.4,258" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1161.57415,241.83601" bounds="181,146,305.4,258" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
 </element>
-<element name="SHAPE0" origin="298.564783,168.694143" bounds="165.5,115.4,324.4,273" selectmode="0">
-<rect name="rc3" origin="261.702858,266.188078" bounds="165.5,115.4,324.4,273" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="656.008512,670.688566" bounds="165.5,115.4,324.4,273" selectmode="0">
-<line name="line1" origin="166,182.4" bounds="165.5,115.4,165.5,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,115.4,6 165.5,273,2"/>
-<line name="line2" origin="227,197.926287" bounds="165.5,273,324.4,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,273,6 324.4,273,2"/>
-<line name="line3" origin="204.929706,114.4" bounds="165.5,115.4,324.4,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="165.5,115.4,6 324.4,115.4,2 324.4,273,2"/>
+<element name="SHAPE0" origin="279.564783,153.694143" bounds="181,146,305.4,258" selectmode="0">
+<rect name="rc3" origin="277.202858,296.788078" bounds="181,146,305.4,258" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="671.508512,701.288566" bounds="181,146,305.4,258" selectmode="0">
+<line name="line1" origin="181.5,213" bounds="181,146,181,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,146,6 181,258,2"/>
+<line name="line2" origin="242.5,228.526287" bounds="181,258,305.4,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,258,6 305.4,258,2"/>
+<line name="line3" origin="220.429706,145" bounds="181,146,305.4,258" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="181,146,6 305.4,146,2 305.4,258,2"/>
 </element>
-<rect name="rc1" origin="508.867822,227.414112" bounds="165.5,115.4,324.4,273" selectmode="0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="856.224514,221.688078" bounds="165.5,115.4,324.4,273" selectmode="0" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="247.7,534.5" bounds="165.5,115.4,324.4,273" selectmode="0">
-<circle name="circle1" origin="166.5,152.4" bounds="165.927149,115.4,324.4,273" backcolor="$2B2B2B" pattern="1"/>
-<circle name="circle5" origin="176.2,148.4" bounds="183.013173,131.542318,310.304033,254.733693" backcolor="$8A00" pattern="1"/>
-<circle name="circle2" origin="171,142.8" bounds="171.907255,119.647979,294.499463,242.83935" backcolor="$DB00" pattern="1"/>
-<circle name="circle3" origin="175.6,147.2" bounds="186.003227,136.215093,279.976343,229.670623" backcolor="$D500" pattern="1" linecolor="$C400"/>
-<circle name="circle4" origin="178.5,146.9" bounds="193.264784,143.436659,271.433333,221.174662" backcolor="$D200" pattern="1" linecolor="$BD00"/>
-<line name="line2" origin="180.9,163.2" bounds="165.5,168.074932,232.135482,271.725608" backcolor="$A0A0A0" pattern="1" points="168.917204,168.074932,6 171.48011,190.164421,2 174.043006,199.934774,2 183.013173,219.05067,2 232.135482,271.725608,2 214.195159,265.778437,2 196.254841,256.857682,2 179.595967,239.016174,2 169.771506,222.449056,2 165.5,202.908355,2"/>
-<line name="line3" origin="214.6,126.1" bounds="224.873923,116.249597,315.856992,160.003773" backcolor="$A0A0A0" pattern="1" points="224.873923,117.523991,6 253.920159,122.196765,2 280.403494,138.763881,2 315.856992,160.003773,2 312.439784,152.357415,2 301.333873,138.339084,2 289.800806,128.99353,2 276.131992,122.196765,2 257.764518,116.249597,2"/>
-<line name="line4" origin="178.3,170.5" bounds="174.470159,205.881942,212.486559,254.308896" backcolor="$E0E0E0" pattern="1" linecolor="$E0E0E0" points="174.470159,205.881942,6 183.867473,220.325068,2 196.254841,236.042585,2 212.486559,254.308896,2 196.254841,245.388144,2 187.711827,236.042585,2 178.741667,222.449056,2"/>
-<line name="line5" origin="217.6,123.6" bounds="256.055914,120.072777,297.489518,145.56065" backcolor="$E0E0E0" pattern="1" linecolor="$E0E0E0" points="297.489518,145.56065,6 279.976343,136.639894,2 279.976343,136.639894,2 268.016127,126.869542,2 268.016127,126.869542,2 256.055914,120.072777,2 270.579033,123.895955,2 277.84059,128.143936,2 284.247851,132.391915,2 290.227957,138.339084,2"/>
+<rect name="rc1" origin="524.367822,258.014112" bounds="181,146,305.4,258" selectmode="0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="871.724514,252.288078" bounds="181,146,305.4,258" selectmode="0" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="263.2,565.1" bounds="181,146,305.4,258" selectmode="0">
+<circle name="circle1" origin="182,183" bounds="181.334407,146,305.4,258" backcolor="$2B2B2B" pattern="1"/>
+<circle name="circle5" origin="191.7,179" bounds="194.710754,157.471698,294.364516,245.018868" backcolor="$8A00" pattern="1"/>
+<circle name="circle2" origin="186.5,173.4" bounds="186.016127,149.018868,281.991399,236.566036" backcolor="$DB00" pattern="1"/>
+<circle name="circle3" origin="191.1,177.8" bounds="197.051615,160.792452,270.621504,227.207549" backcolor="$D500" pattern="1" linecolor="$C400"/>
+<circle name="circle4" origin="194,177.5" bounds="202.736558,165.92453,263.933333,221.169811" backcolor="$D200" pattern="1" linecolor="$BD00"/>
+<line name="line2" origin="196.4,193.8" bounds="181,183.433962,233.16774,257.094341" backcolor="$A0A0A0" pattern="1" points="183.675269,183.433962,6 185.681722,199.132075,2 187.688169,206.075474,2 194.710754,219.660374,2 233.16774,257.094341,2 219.122579,252.867925,2 205.077421,246.528302,2 192.035484,233.849058,2 184.344087,222.075471,2 181,208.188679,2"/>
+<line name="line3" origin="230.1,156.7" bounds="227.482794,146.603774,298.71183,177.698113" backcolor="$A0A0A0" pattern="1" points="227.482794,147.509435,6 250.222579,150.830188,2 270.955913,162.603773,2 298.71183,177.698113,2 296.036558,172.264153,2 287.341937,162.301887,2 278.312903,155.660377,2 267.61183,150.830188,2 253.23226,146.603774,2"/>
+<line name="line4" origin="193.8,201.1" bounds="188.022579,210.301888,217.784946,244.716982" backcolor="$E0E0E0" pattern="1" linecolor="$E0E0E0" points="188.022579,210.301888,6 195.37957,220.566038,2 205.077421,231.735847,2 217.784946,244.716982,2 205.077421,238.377362,2 198.389246,231.735847,2 191.366667,222.075471,2"/>
+<line name="line5" origin="233.1,154.2" bounds="251.894624,149.320755,284.33226,167.433964" backcolor="$E0E0E0" pattern="1" linecolor="$E0E0E0" points="284.33226,167.433964,6 270.621504,161.094341,2 270.621504,161.094341,2 261.258063,154.150945,2 261.258063,154.150945,2 251.894624,149.320755,2 263.264516,152.037734,2 268.949461,155.056604,2 273.965593,158.075473,2 278.647312,162.301887,2"/>
 </element>
-<text name="txt1" origin="1122.978286,232.366181" bounds="165.5,115.4,324.4,273" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" textalign="8" borderinterval="0"/>
+<text name="txt1" origin="1138.478286,262.966181" bounds="181,146,305.4,258" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" textalign="8" borderinterval="0"/>
 </element>
 </element>
 </sheet>
-<sheet name="Menu" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
-<rect name="Lock1" origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
-<rect name="Lock4" origin="38,32" bounds="481,0,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
-<rect name="rect1" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,32" bounds="12,20,84,44" selectmode="0" id="57" pattern="254" linetype="0"/>
-<rect name="rect2" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,32" bounds="12,20,84,44" selectmode="0" id="57" pattern="254" linetype="0"/>
-<rect name="RC0000" description="6697779
-16777215
-16777215
-1
-1
-1
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="236,22" bounds="0,0,481,68" selectmode="0" id="50" backcolor="$663333" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
-<rect name="rect3" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,32" bounds="12,20,84,44" selectmode="0" id="57" pattern="254" linetype="0"/>
-<text name="text1" description="16777215
-0
-16777215
-0
-0
-10
-0
-0
-0
-4
-0
-100
-System
-Embobinadora Automática
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="246,28" bounds="92,12,384,56" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Embobinadora Automática"/>
-<line name="LI0000" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="240,68" bounds="0,68,480,68" id="51" linkmode="1" points="0,68,6 480,68,2"/>
-<rect name="rect4" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="51.333332,42.666666" bounds="28.6,25.4,81.3,44.7" selectmode="0" id="57" pattern="254" linetype="0"/>
-<rect name="rect5" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,32" bounds="12,20,84,44" selectmode="0" id="57" pattern="254" linetype="0"/>
-<rect name="RC0001" description="9392180
-16777215
-16777215
-1
-1
-1
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="481,199" bounds="272,76,460,260" selectmode="0" id="50" backcolor="$8F5034" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
-<line name="line1" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="240,68" bounds="0,68,480,68" id="51" linkmode="1" points="0,68,6 480,68,2"/>
-<element name="element1" description="SB0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-1
-1
-0
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-System
-Automático
-0
-0
-0
-7
-24
-0
-0
-0
-0
-0
-1
-0
-4
-16777215
-16777215
-9392180
-1
-0
-2
-2
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="58,60" bounds="284,84,448,248" selectmode="0" id="3">
-<element name="SHAPE1" origin="321,248" bounds="284,84,448,248" selectmode="0" visible="false">
-<rect name="rc3" origin="382.168552,150.562044" bounds="284,84,448,248" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="713.083694,542.384429" bounds="284,84,448,248">
-<line name="line1" origin="284.5,151" bounds="284,84,284,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,84,6 284,248,2"/>
-<line name="line2" origin="345.5,166.526287" bounds="284,248,448,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,248,6 448,248,2"/>
-<line name="line3" origin="323.429706,83" bounds="284,84,448,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,84,6 448,84,2 448,248,2"/>
-</element>
-<rect name="rc1" origin="637.785584,174.883942" bounds="284,84,448,248" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="980.916242,173.383942" bounds="284,84,448,248" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1264.57415,179.83601" bounds="284,84,448,248" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="284,125" bounds="284,84,448,248" selectmode="0">
-<rect name="rc3" origin="380.202858,234.788078" bounds="284,84,448,248" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="774.508512,639.288566" bounds="284,84,448,248" selectmode="0">
-<line name="line1" origin="284.5,151" bounds="284,84,284,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,84,6 284,248,2"/>
-<line name="line2" origin="345.5,166.526287" bounds="284,248,448,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,248,6 448,248,2"/>
-<line name="line3" origin="323.429706,83" bounds="284,84,448,248" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="284,84,6 448,84,2 448,248,2"/>
-</element>
-<rect name="rc1" origin="627.367822,196.014112" bounds="284,84,448,248" selectmode="0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="974.724514,190.288078" bounds="284,84,448,248" selectmode="0" backcolor="$8F5034" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="623.469,92" bounds="284,84,448,248" selectmode="0">
-<rect name="Rect1" origin="420,180" bounds="284,84,448,211.1" pattern="1"/>
-<rect name="Rect2" origin="412,172" bounds="298.470589,99.8875,433.529411,195.2125" pattern="1"/>
-<rect name="Rect3" origin="520,264" bounds="423.882353,200.508334,428.70588,205.804166" pattern="1"/>
-<rect name="Rect4" origin="420,288" bounds="327.411761,211.1,404.588239,226.9875" pattern="1"/>
-<rect name="Rect5" origin="420,319" bounds="284,221.520834,448,248" pattern="1"/>
-<programe>
-<!--
-published function OnClick(Sender)
-'
-end function
--->
-</programe>
-</element>
-<text name="txt1" origin="1241.478286,200.966181" bounds="284,84,448,248" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="24" textalign="8" borderinterval="0" text="Automático"/>
-</element>
-</element>
-<element name="element6" description="SB0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-1
-1
-0
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-System
-Manual
-16777215
-0
-0
-7
-32
-0
-0
-0
-0
-0
-1
-0
-4
-0
-12237498
-15263976
-1
-0
-1
-1
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="29,89" bounds="20,80,200,260" selectmode="0" id="3">
-<element name="SHAPE1" origin="174,261" bounds="20,80,200,260" selectmode="0" visible="false">
-<rect name="rc3" origin="118.168552,146.562044" bounds="20,80,200,260" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="449.083694,538.384429" bounds="20,80,200,260">
-<line name="line1" origin="20.5,147" bounds="20,80,20,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,80,6 20,260,2"/>
-<line name="line2" origin="81.5,162.526287" bounds="20,260,200,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,260,6 200,260,2"/>
-<line name="line3" origin="59.429706,79" bounds="20,80,200,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,80,6 200,80,2 200,260,2"/>
-</element>
-<rect name="rc1" origin="373.785584,170.883942" bounds="20,80,200,260" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="716.916242,169.383942" bounds="20,80,200,260" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1000.57415,175.83601" bounds="20,80,200,260" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="64,152" bounds="20,80,200,260" selectmode="0">
-<rect name="rc3" origin="116.202858,230.788078" bounds="20,80,200,260" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="510.508512,635.288566" bounds="20,80,200,260" selectmode="0">
-<line name="line1" origin="20.5,147" bounds="20,80,20,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,80,6 20,260,2"/>
-<line name="line2" origin="81.5,162.526287" bounds="20,260,200,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,260,6 200,260,2"/>
-<line name="line3" origin="59.429706,79" bounds="20,80,200,260" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="20,80,6 200,80,2 200,260,2"/>
-</element>
-<rect name="rc1" origin="363.367822,192.014112" bounds="20,80,200,260" selectmode="0" backcolor="$0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="710.724514,186.288078" bounds="20,80,200,260" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="319,244" bounds="20,80,200,260" selectmode="0">
-<rect name="rect2" origin="59.7,115.4" bounds="20,80,200,260" backcolor="$8F5034" pattern="1" linecolor="$C4A99B" linewidth="5"/>
-<element name="element1" origin="60,130" bounds="35.75,124.46,184.25,215.54">
-<circle name="circle1" origin="68.35,130.86" bounds="94.7,124.46,123.5,147.5" pattern="1" linecolor="$EDD9CE"/>
-<line name="line1" origin="69.05,154.16" bounds="61.85,151.46,159.5,206.9" pattern="1" linecolor="$EDD9CE" points="134.3,151.46,6 85.7,151.46,2 79.4,155.06,4 78.05,160.1,4 75.35,162.98,4 74.45,165.5,2 61.85,198.98,2 63.65,205.1,4 67.25,204.38,4 72.65,202.94,4 88.85,169.46,2 91.55,169.46,2 91.55,204.38,2 127.55,204.38,2 127.55,168.38,2 130.7,168.38,2 146,202.58,2 151.4,206.9,4 157.7,204.74,4 159.5,200.78,4 144.2,166.22,2 142.4,158.66,4 135.2,152.54,4 134.3,151.82,4 134.3,151.82,2"/>
-<rect name="rect2" origin="68.75,172.46" bounds="35.75,206.18,184.25,215.54" pattern="1" linecolor="$EDD9CE"/>
-</element>
-</element>
-<text name="txt1" origin="977.478286,196.966181" bounds="20,80,200,260" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="32" fontcolor="$FFFFFF" textalign="8" borderinterval="0" text="Manual"/>
-</element>
-</element>
-<line name="LI0001" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="240.522201,168" bounds="240.5,69,240.5,273" id="51" linkmode="1" points="240.5,69,6 240.5,273,2"/>
-</sheet>
-<sheet name="Automática" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
+<sheet name="Input" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
 <rect name="Lock1" origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
 <rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
 <rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
@@ -1140,77 +528,77 @@ D
 0
 0
 0
-" origin="66,96" bounds="32,120,116,212" selectmode="0" id="2">
-<element name="SHAPE1" origin="182,302" bounds="32,120,116,212" selectmode="0" visible="false">
-<rect name="rc3" origin="130.168552,186.562044" bounds="32,120,116,212" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="461.083694,578.384429" bounds="32,120,116,212">
-<line name="line1" origin="32.5,187" bounds="32,120,32,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,120,6 32,212,2"/>
-<line name="line2" origin="93.5,202.526287" bounds="32,212,116,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,212,6 116,212,2"/>
-<line name="line3" origin="71.429706,119" bounds="32,120,116,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,120,6 116,120,2 116,212,2"/>
+" origin="73,85" bounds="39,109,111,201" selectmode="0" id="2">
+<element name="SHAPE1" origin="189,291" bounds="39,109,111,201" selectmode="0" visible="false">
+<rect name="rc3" origin="137.168552,175.562044" bounds="39,109,111,201" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="468.083694,567.384429" bounds="39,109,111,201">
+<line name="line1" origin="39.5,176" bounds="39,109,39,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,109,6 39,201,2"/>
+<line name="line2" origin="100.5,191.526287" bounds="39,201,111,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,201,6 111,201,2"/>
+<line name="line3" origin="78.429706,108" bounds="39,109,111,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,109,6 111,109,2 111,201,2"/>
 </element>
-<rect name="rc1" origin="385.785584,210.883942" bounds="32,120,116,212" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="728.916242,209.383942" bounds="32,120,116,212" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1012.57415,215.83601" bounds="32,120,116,212" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+<rect name="rc1" origin="392.785584,199.883942" bounds="39,109,111,201" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="735.916242,198.383942" bounds="39,109,111,201" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1019.57415,204.83601" bounds="39,109,111,201" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
 </element>
-<element name="SHAPE0" origin="72,193" bounds="32,120,116,212" selectmode="0">
-<rect name="rc3" origin="128.202858,270.788078" bounds="32,120,116,212" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="522.508512,675.288566" bounds="32,120,116,212" selectmode="0">
-<line name="line1" origin="32.5,187" bounds="32,120,32,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,120,6 32,212,2"/>
-<line name="line2" origin="93.5,202.526287" bounds="32,212,116,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,212,6 116,212,2"/>
-<line name="line3" origin="71.429706,119" bounds="32,120,116,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="32,120,6 116,120,2 116,212,2"/>
+<element name="SHAPE0" origin="79,182" bounds="39,109,111,201" selectmode="0">
+<rect name="rc3" origin="135.202858,259.788078" bounds="39,109,111,201" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="529.508512,664.288566" bounds="39,109,111,201" selectmode="0">
+<line name="line1" origin="39.5,176" bounds="39,109,39,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,109,6 39,201,2"/>
+<line name="line2" origin="100.5,191.526287" bounds="39,201,111,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,201,6 111,201,2"/>
+<line name="line3" origin="78.429706,108" bounds="39,109,111,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="39,109,6 111,109,2 111,201,2"/>
 </element>
-<rect name="rc1" origin="375.367822,232.014112" bounds="32,120,116,212" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="722.724514,226.288078" bounds="32,120,116,212" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="579,455.5" bounds="32,120,116,212" selectmode="0">
-<rect name="rect1" origin="175,256" bounds="32,120,116,212" backcolor="$333333" pattern="1"/>
-<rect name="rect2" origin="175,116" bounds="36.055172,124.409586,111.365516,143.651416" backcolor="$333333" frontcolor="$4C4C4C" pattern="1" linecolor="$A0A0A0"/>
-<rect name="rect3" origin="158,79" bounds="36.055172,123.407407,111.365516,128.217866" backcolor="$5D5D5D" pattern="1" linecolor="$C0C0C0"/>
-<rect name="rect4" origin="169,121" bounds="38.662069,132.226579,108.179311,137.037037" backcolor="$A0FFFF" pattern="1" linecolor="$A0FFFF"/>
-<rect name="rect5" origin="171,294" bounds="36.344828,145.455336,110.786208,208.592593" backcolor="$C0C0C0" linecolor="$A0A0A0"/>
-<rect name="rect6" origin="157,293" bounds="38.951723,147.058822,107.6,206.588236" backcolor="$C0C0" linecolor="$A0A0A0"/>
-<rect name="rect7" origin="154,296" bounds="41.848277,149.063181,104.993103,205.185185" backcolor="$C0C0" linecolor="$A0A0A0"/>
-<rect name="rect9" origin="96,210.5" bounds="47.351723,151.468409,55.462069,156.078432" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect14" origin="95,243.5" bounds="47.351723,158.08279,55.462069,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect19" origin="96,277.5" bounds="47.351723,164.897603,55.462069,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect24" origin="98,311.5" bounds="47.351723,171.712418,55.462069,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect29" origin="96,345.5" bounds="47.351723,178.527234,55.462069,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect34" origin="96,376.5" bounds="47.351723,184.74074,55.462069,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect39" origin="97,439.5" bounds="47.351723,197.368191,55.462069,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect44" origin="97,408.5" bounds="47.351723,191.154685,55.462069,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect10" origin="137,210.5" bounds="59.227587,151.468409,67.337931,156.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect11" origin="136,243.5" bounds="59.227587,158.08279,67.337931,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect12" origin="137,277.5" bounds="59.227587,164.897603,67.337931,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect13" origin="139,311.5" bounds="59.227587,171.712418,67.337931,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect15" origin="137,345.5" bounds="59.227587,178.527234,67.337931,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect16" origin="137,376.5" bounds="59.227587,184.74074,67.337931,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect17" origin="138,439.5" bounds="59.227587,197.368191,67.337931,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect18" origin="138,408.5" bounds="59.227587,191.154685,67.337931,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect20" origin="175,210.5" bounds="70.234484,151.468409,78.344828,156.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect21" origin="174,243.5" bounds="70.234484,158.08279,78.344828,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect22" origin="175,277.5" bounds="70.234484,164.897603,78.344828,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect23" origin="177,311.5" bounds="70.234484,171.712418,78.344828,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect25" origin="175,345.5" bounds="70.234484,178.527234,78.344828,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect26" origin="175,376.5" bounds="70.234484,184.74074,78.344828,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect27" origin="176,439.5" bounds="70.234484,197.368191,78.344828,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect28" origin="176,408.5" bounds="70.234484,191.154685,78.344828,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect30" origin="215,211.5" bounds="81.820689,151.668846,89.931034,156.278867" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect31" origin="214,244.5" bounds="81.820689,158.283224,89.931034,162.893248" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect32" origin="215,278.5" bounds="81.820689,165.09804,89.931034,169.708061" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect33" origin="217,312.5" bounds="81.820689,171.912856,89.931034,176.522876" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect35" origin="215,346.5" bounds="81.820689,178.727669,89.931034,183.337692" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect36" origin="215,377.5" bounds="81.820689,184.941178,89.931034,189.551198" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect37" origin="216,440.5" bounds="81.820689,197.568628,89.931034,202.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect38" origin="216,409.5" bounds="81.820689,191.35512,89.931034,195.96514" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect40" origin="255,211.5" bounds="93.406897,151.668846,101.517241,156.278867" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect41" origin="254,244.5" bounds="93.406897,158.283224,101.517241,162.893248" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect42" origin="255,278.5" bounds="93.406897,165.09804,101.517241,169.708061" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect43" origin="257,312.5" bounds="93.406897,171.912856,101.517241,176.522876" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect45" origin="255,346.5" bounds="93.406897,178.727669,101.517241,183.337692" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect46" origin="255,377.5" bounds="93.406897,184.941178,101.517241,189.551198" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect47" origin="256,440.5" bounds="93.406897,197.568628,101.517241,202.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect48" origin="256,409.5" bounds="93.406897,191.35512,101.517241,195.96514" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rc1" origin="382.367822,221.014112" bounds="39,109,111,201" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="729.724514,215.288078" bounds="39,109,111,201" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="586,444.5" bounds="39,109,111,201" selectmode="0">
+<rect name="rect1" origin="182,245" bounds="39,109,111,201" backcolor="$333333" pattern="1"/>
+<rect name="rect2" origin="182,105" bounds="42.475862,113.409586,107.027585,132.651416" backcolor="$333333" frontcolor="$4C4C4C" pattern="1" linecolor="$A0A0A0"/>
+<rect name="rect3" origin="165,68" bounds="42.475862,112.407407,107.027585,117.217866" backcolor="$5D5D5D" pattern="1" linecolor="$C0C0C0"/>
+<rect name="rect4" origin="176,110" bounds="44.710345,121.226579,104.296552,126.037037" backcolor="$A0FFFF" pattern="1" linecolor="$A0FFFF"/>
+<rect name="rect5" origin="178,283" bounds="42.724138,134.455336,106.531035,197.592593" backcolor="$C0C0C0" linecolor="$A0A0A0"/>
+<rect name="rect6" origin="164,282" bounds="44.95862,136.058822,103.8,195.588236" backcolor="$C0C0" linecolor="$A0A0A0"/>
+<rect name="rect7" origin="161,285" bounds="47.44138,138.063181,101.565517,194.185185" backcolor="$C0C0" linecolor="$A0A0A0"/>
+<rect name="rect9" origin="103,199.5" bounds="52.15862,140.468409,59.110345,145.078432" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect14" origin="102,232.5" bounds="52.15862,147.08279,59.110345,151.69281" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect19" origin="103,266.5" bounds="52.15862,153.897603,59.110345,158.507626" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect24" origin="105,300.5" bounds="52.15862,160.712418,59.110345,165.32244" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect29" origin="103,334.5" bounds="52.15862,167.527234,59.110345,172.137255" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect34" origin="103,365.5" bounds="52.15862,173.74074,59.110345,178.350762" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect39" origin="104,428.5" bounds="52.15862,186.368191,59.110345,190.978214" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect44" origin="104,397.5" bounds="52.15862,180.154685,59.110345,184.764706" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect10" origin="144,199.5" bounds="62.337932,140.468409,69.289655,145.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect11" origin="143,232.5" bounds="62.337932,147.08279,69.289655,151.69281" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect12" origin="144,266.5" bounds="62.337932,153.897603,69.289655,158.507626" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect13" origin="146,300.5" bounds="62.337932,160.712418,69.289655,165.32244" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect15" origin="144,334.5" bounds="62.337932,167.527234,69.289655,172.137255" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect16" origin="144,365.5" bounds="62.337932,173.74074,69.289655,178.350762" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect17" origin="145,428.5" bounds="62.337932,186.368191,69.289655,190.978214" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect18" origin="145,397.5" bounds="62.337932,180.154685,69.289655,184.764706" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect20" origin="182,199.5" bounds="71.772415,140.468409,78.724138,145.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect21" origin="181,232.5" bounds="71.772415,147.08279,78.724138,151.69281" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect22" origin="182,266.5" bounds="71.772415,153.897603,78.724138,158.507626" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect23" origin="184,300.5" bounds="71.772415,160.712418,78.724138,165.32244" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect25" origin="182,334.5" bounds="71.772415,167.527234,78.724138,172.137255" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect26" origin="182,365.5" bounds="71.772415,173.74074,78.724138,178.350762" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect27" origin="183,428.5" bounds="71.772415,186.368191,78.724138,190.978214" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect28" origin="183,397.5" bounds="71.772415,180.154685,78.724138,184.764706" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect30" origin="222,200.5" bounds="81.703448,140.668846,88.655172,145.278867" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect31" origin="221,233.5" bounds="81.703448,147.283224,88.655172,151.893248" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect32" origin="222,267.5" bounds="81.703448,154.09804,88.655172,158.708061" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect33" origin="224,301.5" bounds="81.703448,160.912856,88.655172,165.522876" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect35" origin="222,335.5" bounds="81.703448,167.727669,88.655172,172.337692" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect36" origin="222,366.5" bounds="81.703448,173.941178,88.655172,178.551198" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect37" origin="223,429.5" bounds="81.703448,186.568628,88.655172,191.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect38" origin="223,398.5" bounds="81.703448,180.35512,88.655172,184.96514" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect40" origin="262,200.5" bounds="91.634483,140.668846,98.586207,145.278867" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect41" origin="261,233.5" bounds="91.634483,147.283224,98.586207,151.893248" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect42" origin="262,267.5" bounds="91.634483,154.09804,98.586207,158.708061" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect43" origin="264,301.5" bounds="91.634483,160.912856,98.586207,165.522876" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect45" origin="262,335.5" bounds="91.634483,167.727669,98.586207,172.337692" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect46" origin="262,366.5" bounds="91.634483,173.941178,98.586207,178.551198" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect47" origin="263,429.5" bounds="91.634483,186.568628,98.586207,191.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect48" origin="263,398.5" bounds="91.634483,180.35512,98.586207,184.96514" backcolor="$C0C0" linecolor="$80FF"/>
 </element>
-<text name="txt1" origin="989.478286,236.966181" bounds="32,120,116,212" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+<text name="txt1" origin="996.478286,225.966181" bounds="39,109,111,201" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
 </element>
 </element>
 <text name="text2" description="16777215
@@ -1218,7 +606,7 @@ D
 0
 0
 0
-6
+7
 0
 0
 0
@@ -1226,7 +614,7 @@ D
 0
 100
 System
-Número de Vueltas
+Vueltas por Bobina
 0
 2
 0
@@ -1243,13 +631,13 @@ Número de Vueltas
 0
 0
 0
-" origin="242,92.5" bounds="192,66.5,288,118.5" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Número de Vueltas"/>
+" origin="242,78.5" bounds="159,52.5,317,93" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="19" text="Vueltas por Bobina"/>
 <text name="text3" description="16777215
 255
 0
 0
 0
-6
+7
 0
 0
 0
@@ -1257,7 +645,7 @@ Número de Vueltas
 0
 100
 System
-Número de Bobinas
+Bobinas
 0
 2
 0
@@ -1274,7 +662,7 @@ Número de Bobinas
 0
 0
 0
-" origin="50,90" bounds="28,64,120,116" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Número de Bobinas"/>
+" origin="50,82" bounds="28,56,120,95" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="19" text="Bobinas"/>
 <element name="element4" description="WB0000
 0
 1
@@ -1355,631 +743,77 @@ D
 0
 0
 0
-" origin="230,96" bounds="196,120,280,212" selectmode="0" id="2">
-<element name="SHAPE1" origin="346,302" bounds="196,120,280,212" selectmode="0" visible="false">
-<rect name="rc3" origin="294.168552,186.562044" bounds="196,120,280,212" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="625.083694,578.384429" bounds="196,120,280,212">
-<line name="line1" origin="196.5,187" bounds="196,120,196,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,120,6 196,212,2"/>
-<line name="line2" origin="257.5,202.526287" bounds="196,212,280,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,212,6 280,212,2"/>
-<line name="line3" origin="235.429706,119" bounds="196,120,280,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,120,6 280,120,2 280,212,2"/>
+" origin="235,88" bounds="201,112,271,201" selectmode="0" id="2">
+<element name="SHAPE1" origin="351,294" bounds="201,112,271,201" selectmode="0" visible="false">
+<rect name="rc3" origin="299.168552,178.562044" bounds="201,112,271,201" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="630.083694,570.384429" bounds="201,112,271,201">
+<line name="line1" origin="201.5,179" bounds="201,112,201,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,112,6 201,201,2"/>
+<line name="line2" origin="262.5,194.526287" bounds="201,201,271,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,201,6 271,201,2"/>
+<line name="line3" origin="240.429706,111" bounds="201,112,271,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,112,6 271,112,2 271,201,2"/>
 </element>
-<rect name="rc1" origin="549.785584,210.883942" bounds="196,120,280,212" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="892.916242,209.383942" bounds="196,120,280,212" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1176.57415,215.83601" bounds="196,120,280,212" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+<rect name="rc1" origin="554.785584,202.883942" bounds="201,112,271,201" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="897.916242,201.383942" bounds="201,112,271,201" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1181.57415,207.83601" bounds="201,112,271,201" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
 </element>
-<element name="SHAPE0" origin="236,193" bounds="196,120,280,212" selectmode="0">
-<rect name="rc3" origin="292.202858,270.788078" bounds="196,120,280,212" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="686.508512,675.288566" bounds="196,120,280,212" selectmode="0">
-<line name="line1" origin="196.5,187" bounds="196,120,196,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,120,6 196,212,2"/>
-<line name="line2" origin="257.5,202.526287" bounds="196,212,280,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,212,6 280,212,2"/>
-<line name="line3" origin="235.429706,119" bounds="196,120,280,212" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="196,120,6 280,120,2 280,212,2"/>
+<element name="SHAPE0" origin="241,185" bounds="201,112,271,201" selectmode="0">
+<rect name="rc3" origin="297.202858,262.788078" bounds="201,112,271,201" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="691.508512,667.288566" bounds="201,112,271,201" selectmode="0">
+<line name="line1" origin="201.5,179" bounds="201,112,201,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,112,6 201,201,2"/>
+<line name="line2" origin="262.5,194.526287" bounds="201,201,271,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,201,6 271,201,2"/>
+<line name="line3" origin="240.429706,111" bounds="201,112,271,201" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="201,112,6 271,112,2 271,201,2"/>
 </element>
-<rect name="rc1" origin="539.367822,232.014112" bounds="196,120,280,212" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="886.724514,226.288078" bounds="196,120,280,212" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="743,455.5" bounds="196,120,280,212" selectmode="0">
-<rect name="rect1" origin="339,256" bounds="196,120,280,212" backcolor="$333333" pattern="1"/>
-<rect name="rect2" origin="339,116" bounds="200.055172,124.409586,275.365516,143.651416" backcolor="$333333" frontcolor="$4C4C4C" pattern="1" linecolor="$A0A0A0"/>
-<rect name="rect3" origin="322,79" bounds="200.055172,123.407407,275.365516,128.217866" backcolor="$5D5D5D" pattern="1" linecolor="$C0C0C0"/>
-<rect name="rect4" origin="333,121" bounds="202.662069,132.226579,272.179311,137.037037" backcolor="$A0FFFF" pattern="1" linecolor="$A0FFFF"/>
-<rect name="rect5" origin="335,294" bounds="200.344828,145.455336,274.786208,208.592593" backcolor="$C0C0C0" linecolor="$A0A0A0"/>
-<rect name="rect6" origin="321,293" bounds="202.951723,147.058822,271.6,206.588236" backcolor="$C0C0" linecolor="$A0A0A0"/>
-<rect name="rect7" origin="318,296" bounds="205.848277,149.063181,268.993103,205.185185" backcolor="$C0C0" linecolor="$A0A0A0"/>
-<rect name="rect9" origin="260,210.5" bounds="211.351723,151.468409,219.462069,156.078432" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect14" origin="259,243.5" bounds="211.351723,158.08279,219.462069,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect19" origin="260,277.5" bounds="211.351723,164.897603,219.462069,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect24" origin="262,311.5" bounds="211.351723,171.712418,219.462069,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect29" origin="260,345.5" bounds="211.351723,178.527234,219.462069,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect34" origin="260,376.5" bounds="211.351723,184.74074,219.462069,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect39" origin="261,439.5" bounds="211.351723,197.368191,219.462069,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect44" origin="261,408.5" bounds="211.351723,191.154685,219.462069,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect10" origin="301,210.5" bounds="223.227587,151.468409,231.337931,156.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect11" origin="300,243.5" bounds="223.227587,158.08279,231.337931,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect12" origin="301,277.5" bounds="223.227587,164.897603,231.337931,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect13" origin="303,311.5" bounds="223.227587,171.712418,231.337931,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect15" origin="301,345.5" bounds="223.227587,178.527234,231.337931,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect16" origin="301,376.5" bounds="223.227587,184.74074,231.337931,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect17" origin="302,439.5" bounds="223.227587,197.368191,231.337931,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect18" origin="302,408.5" bounds="223.227587,191.154685,231.337931,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect20" origin="339,210.5" bounds="234.234484,151.468409,242.344828,156.078432" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect21" origin="338,243.5" bounds="234.234484,158.08279,242.344828,162.69281" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect22" origin="339,277.5" bounds="234.234484,164.897603,242.344828,169.507626" backcolor="$C0C0" linecolor="$FFFF"/>
-<rect name="rect23" origin="341,311.5" bounds="234.234484,171.712418,242.344828,176.32244" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect25" origin="339,345.5" bounds="234.234484,178.527234,242.344828,183.137255" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect26" origin="339,376.5" bounds="234.234484,184.74074,242.344828,189.350762" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect27" origin="340,439.5" bounds="234.234484,197.368191,242.344828,201.978214" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect28" origin="340,408.5" bounds="234.234484,191.154685,242.344828,195.764706" backcolor="$C0C0" linecolor="$FF"/>
-<rect name="rect30" origin="379,211.5" bounds="245.820689,151.668846,253.931034,156.278867" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect31" origin="378,244.5" bounds="245.820689,158.283224,253.931034,162.893248" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect32" origin="379,278.5" bounds="245.820689,165.09804,253.931034,169.708061" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect33" origin="381,312.5" bounds="245.820689,171.912856,253.931034,176.522876" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect35" origin="379,346.5" bounds="245.820689,178.727669,253.931034,183.337692" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect36" origin="379,377.5" bounds="245.820689,184.941178,253.931034,189.551198" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect37" origin="380,440.5" bounds="245.820689,197.568628,253.931034,202.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect38" origin="380,409.5" bounds="245.820689,191.35512,253.931034,195.96514" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect40" origin="419,211.5" bounds="257.406897,151.668846,265.517241,156.278867" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect41" origin="418,244.5" bounds="257.406897,158.283224,265.517241,162.893248" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect42" origin="419,278.5" bounds="257.406897,165.09804,265.517241,169.708061" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect43" origin="421,312.5" bounds="257.406897,171.912856,265.517241,176.522876" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect45" origin="419,346.5" bounds="257.406897,178.727669,265.517241,183.337692" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect46" origin="419,377.5" bounds="257.406897,184.941178,265.517241,189.551198" backcolor="$C0C0" linecolor="$80FF"/>
-<rect name="rect47" origin="420,440.5" bounds="257.406897,197.568628,265.517241,202.178649" backcolor="$C0C0" linecolor="$FFFFFF"/>
-<rect name="rect48" origin="420,409.5" bounds="257.406897,191.35512,265.517241,195.96514" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rc1" origin="544.367822,224.014112" bounds="201,112,271,201" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="891.724514,218.288078" bounds="201,112,271,201" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="748,447.5" bounds="201,112,271,201" selectmode="0">
+<rect name="rect1" origin="344,248" bounds="201,112,271,201" backcolor="$333333" pattern="1"/>
+<rect name="rect2" origin="344,108" bounds="204.37931,116.265795,267.13793,134.880174" backcolor="$333333" frontcolor="$4C4C4C" pattern="1" linecolor="$A0A0A0"/>
+<rect name="rect3" origin="327,71" bounds="204.37931,115.296296,267.13793,119.949892" backcolor="$5D5D5D" pattern="1" linecolor="$C0C0C0"/>
+<rect name="rect4" origin="338,113" bounds="206.551724,123.827886,264.482759,128.481481" backcolor="$A0FFFF" pattern="1" linecolor="$A0FFFF"/>
+<rect name="rect5" origin="340,286" bounds="204.62069,136.625271,266.655173,197.703704" backcolor="$C0C0C0" linecolor="$A0A0A0"/>
+<rect name="rect6" origin="326,285" bounds="206.793102,138.176469,264,195.764707" backcolor="$C0C0" linecolor="$A0A0A0"/>
+<rect name="rect7" origin="323,288" bounds="209.206898,140.115469,261.827586,194.407407" backcolor="$C0C0" linecolor="$A0A0A0"/>
+<rect name="rect9" origin="265,202.5" bounds="213.793103,142.442265,220.551724,146.901961" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect14" origin="264,235.5" bounds="213.793103,148.84096,220.551724,153.300653" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect19" origin="265,269.5" bounds="213.793103,155.433551,220.551724,159.893247" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect24" origin="267,303.5" bounds="213.793103,162.026144,220.551724,166.485839" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect29" origin="265,337.5" bounds="213.793103,168.618737,220.551724,173.078431" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect34" origin="265,368.5" bounds="213.793103,174.629629,220.551724,179.089324" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect39" origin="266,431.5" bounds="213.793103,186.845315,220.551724,191.305011" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect44" origin="266,400.5" bounds="213.793103,180.834424,220.551724,185.294118" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect10" origin="306,202.5" bounds="223.689656,142.442265,230.448276,146.901961" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect11" origin="305,235.5" bounds="223.689656,148.84096,230.448276,153.300653" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect12" origin="306,269.5" bounds="223.689656,155.433551,230.448276,159.893247" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect13" origin="308,303.5" bounds="223.689656,162.026144,230.448276,166.485839" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect15" origin="306,337.5" bounds="223.689656,168.618737,230.448276,173.078431" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect16" origin="306,368.5" bounds="223.689656,174.629629,230.448276,179.089324" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect17" origin="307,431.5" bounds="223.689656,186.845315,230.448276,191.305011" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect18" origin="307,400.5" bounds="223.689656,180.834424,230.448276,185.294118" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect20" origin="344,202.5" bounds="232.86207,142.442265,239.62069,146.901961" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect21" origin="343,235.5" bounds="232.86207,148.84096,239.62069,153.300653" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect22" origin="344,269.5" bounds="232.86207,155.433551,239.62069,159.893247" backcolor="$C0C0" linecolor="$FFFF"/>
+<rect name="rect23" origin="346,303.5" bounds="232.86207,162.026144,239.62069,166.485839" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect25" origin="344,337.5" bounds="232.86207,168.618737,239.62069,173.078431" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect26" origin="344,368.5" bounds="232.86207,174.629629,239.62069,179.089324" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect27" origin="345,431.5" bounds="232.86207,186.845315,239.62069,191.305011" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect28" origin="345,400.5" bounds="232.86207,180.834424,239.62069,185.294118" backcolor="$C0C0" linecolor="$FF"/>
+<rect name="rect30" origin="384,203.5" bounds="242.517241,142.636166,249.275862,147.09586" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect31" origin="383,236.5" bounds="242.517241,149.034858,249.275862,153.494555" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect32" origin="384,270.5" bounds="242.517241,155.627452,249.275862,160.087146" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect33" origin="386,304.5" bounds="242.517241,162.220045,249.275862,166.679739" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect35" origin="384,338.5" bounds="242.517241,168.812636,249.275862,173.272332" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect36" origin="384,369.5" bounds="242.517241,174.823531,249.275862,179.283224" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect37" origin="385,432.5" bounds="242.517241,187.039216,249.275862,191.49891" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect38" origin="385,401.5" bounds="242.517241,181.028323,249.275862,185.488016" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect40" origin="424,203.5" bounds="252.172414,142.636166,258.931034,147.09586" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect41" origin="423,236.5" bounds="252.172414,149.034858,258.931034,153.494555" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect42" origin="424,270.5" bounds="252.172414,155.627452,258.931034,160.087146" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect43" origin="426,304.5" bounds="252.172414,162.220045,258.931034,166.679739" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect45" origin="424,338.5" bounds="252.172414,168.812636,258.931034,173.272332" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect46" origin="424,369.5" bounds="252.172414,174.823531,258.931034,179.283224" backcolor="$C0C0" linecolor="$80FF"/>
+<rect name="rect47" origin="425,432.5" bounds="252.172414,187.039216,258.931034,191.49891" backcolor="$C0C0" linecolor="$FFFFFF"/>
+<rect name="rect48" origin="425,401.5" bounds="252.172414,181.028323,258.931034,185.488016" backcolor="$C0C0" linecolor="$80FF"/>
 </element>
-<text name="txt1" origin="1153.478286,236.966181" bounds="196,120,280,212" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
-</element>
-</element>
-<element name="element1" description="ND0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-16
-8888
-1
-0
-0
-1
-0
-1
-D
-0
-0
-4
-0
-0
-0
-0
-1
-0
-0
-65535
-0
-255
-0
-65280
-0
-0
-0
-
-
-0
-0
-0
-
-
-16777215
-16777215
-16777215
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="75.017702,135.209091" bounds="32,212,116,240" selectmode="0" id="16">
-<element name="SHAPE0" origin="32.617702,234.590909" bounds="32,212,116,240">
-<rect name="rc1" origin="48.3,51.618182" bounds="32,212.074123,115.962843,239.932054" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="92.4,51.418182" bounds="32,212.074123,115.962843,239.932054" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="130.2,265.318182" bounds="32.037157,212,116,239.857931" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="72,252.948485" bounds="32,212.074123,115.962843,239.932054">
-<line name="line4" origin="94.386957,208.358286" bounds="32.379497,212.221359,115.857889,212.233694" backcolor="$C0C0" linecolor="$FFFFFF" points="32.379497,212.221359,6 115.857889,212.233694,2"/>
-<line name="line1" origin="33.386957,283.304426" bounds="32.379497,212.074123,32.379497,239.86936" backcolor="$C0C0" linecolor="$FFFFFF" points="32.379497,212.074123,6 32.379497,239.86936,2"/>
-<line name="line2" origin="94.786957,292.204426" bounds="32,239.932054,115.962843,239.932054" backcolor="$C0C0" points="32,239.932054,6 115.962843,239.932054,2"/>
-<line name="line3" origin="111.786957,284.304426" bounds="115.294813,212.42364,115.294813,239.806666" backcolor="$C0C0" points="115.294813,212.42364,6 115.294813,239.806666,2"/>
-</element>
-<text name="txt1" origin="69.7,219.418182" bounds="32.125162,212.152364,115.543028,240" backcolor="$C0C0" fontname="Arial" fontsize="16" text="8888"/>
-</element>
-<element name="SHAPE1" origin="121.017702,235.209091" bounds="32,212,116,240" visible="false">
-<rect name="rc1" origin="48.3,51.618182" bounds="32,212.074123,115.962843,239.932054" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="92.4,51.418182" bounds="32,212.074123,115.962843,239.932054" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="130.2,265.318182" bounds="32.037157,212,116,239.857931" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="72,252.948485" bounds="32,212.074123,115.962843,239.932054">
-<line name="line4" origin="94.386957,208.358286" bounds="32.379497,212.221359,115.857889,212.233694" backcolor="$C0C0" linecolor="$FFFFFF" points="32.379497,212.221359,6 115.857889,212.233694,2"/>
-<line name="line1" origin="33.386957,283.304426" bounds="32.379497,212.074123,32.379497,239.86936" backcolor="$C0C0" linecolor="$FFFFFF" points="32.379497,212.074123,6 32.379497,239.86936,2"/>
-<line name="line2" origin="94.786957,292.204426" bounds="32,239.932054,115.962843,239.932054" backcolor="$C0C0" points="32,239.932054,6 115.962843,239.932054,2"/>
-<line name="line3" origin="111.786957,284.304426" bounds="115.294813,212.42364,115.294813,239.806666" backcolor="$C0C0" points="115.294813,212.42364,6 115.294813,239.806666,2"/>
-</element>
-<text name="txt1" origin="69.7,219.418182" bounds="32.125162,212.152364,115.543028,240" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-</element>
-<element name="element2" description="ND0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-16
-8888
-1
-0
-0
-1
-0
-1
-D
-1
-0
-4
-0
-0
-0
-0
-1
-0
-0
-65535
-0
-255
-0
-65280
-0
-0
-0
-
-
-0
-0
-0
-
-
-16777215
-16777215
-16777215
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="35.017702,147.209091" bounds="196,212,280,240" selectmode="0" id="16">
-<element name="SHAPE0" origin="196.617702,234.590909" bounds="196,212,280,240">
-<rect name="rc1" origin="212.3,51.618182" bounds="196,212.074123,279.962843,239.932054" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="256.4,51.418182" bounds="196,212.074123,279.962843,239.932054" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="294.2,265.318182" bounds="196.037157,212,280,239.857931" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="236,252.948485" bounds="196,212.074123,279.962843,239.932054">
-<line name="line4" origin="258.386957,208.358286" bounds="196.379497,212.221359,279.857889,212.233694" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,212.221359,6 279.857889,212.233694,2"/>
-<line name="line1" origin="197.386957,283.304426" bounds="196.379497,212.074123,196.379497,239.86936" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,212.074123,6 196.379497,239.86936,2"/>
-<line name="line2" origin="258.786957,292.204426" bounds="196,239.932054,279.962843,239.932054" backcolor="$C0C0" points="196,239.932054,6 279.962843,239.932054,2"/>
-<line name="line3" origin="275.786957,284.304426" bounds="279.294813,212.42364,279.294813,239.806666" backcolor="$C0C0" points="279.294813,212.42364,6 279.294813,239.806666,2"/>
-</element>
-<text name="txt1" origin="233.7,219.418182" bounds="196.125162,212.152364,279.543028,240" backcolor="$C0C0" fontname="Arial" fontsize="16" text="8888"/>
-</element>
-<element name="SHAPE1" origin="285.017702,235.209091" bounds="196,212,280,240" visible="false">
-<rect name="rc1" origin="212.3,51.618182" bounds="196,212.074123,279.962843,239.932054" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="256.4,51.418182" bounds="196,212.074123,279.962843,239.932054" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="294.2,265.318182" bounds="196.037157,212,280,239.857931" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="236,252.948485" bounds="196,212.074123,279.962843,239.932054">
-<line name="line4" origin="258.386957,208.358286" bounds="196.379497,212.221359,279.857889,212.233694" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,212.221359,6 279.857889,212.233694,2"/>
-<line name="line1" origin="197.386957,283.304426" bounds="196.379497,212.074123,196.379497,239.86936" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,212.074123,6 196.379497,239.86936,2"/>
-<line name="line2" origin="258.786957,292.204426" bounds="196,239.932054,279.962843,239.932054" backcolor="$C0C0" points="196,239.932054,6 279.962843,239.932054,2"/>
-<line name="line3" origin="275.786957,284.304426" bounds="279.294813,212.42364,279.294813,239.806666" backcolor="$C0C0" points="279.294813,212.42364,6 279.294813,239.806666,2"/>
-</element>
-<text name="txt1" origin="233.7,219.418182" bounds="196.125162,212.152364,279.543028,240" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-</element>
-<text name="text5" description="16777215
-255
-0
-0
-0
-6
-0
-0
-0
-4
-0
-100
-System
-Menu Principal
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="398,192" bounds="348,180,460,204" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Menu Principal"/>
-<line name="LI0001" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="400,171.833324" bounds="320,171.699997,480,171.999997" id="51" linkmode="1" points="480,171.999997,6 320,171.699997,2"/>
-<element name="element5" description="SB0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-1
-1
-0
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
-15263976
-12237498
-15263976
-1
-0
-3
-3
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="18,28" bounds="368,84,440,160" selectmode="0" id="3">
-<element name="SHAPE1" origin="518,230" bounds="368,84,440,160" selectmode="0" visible="false">
-<rect name="rc3" origin="466.168552,150.562044" bounds="368,84,440,160" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="797.083694,542.384429" bounds="368,84,440,160">
-<line name="line1" origin="368.5,151" bounds="368,84,368,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,84,6 368,160,2"/>
-<line name="line2" origin="429.5,166.526287" bounds="368,160,440,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,160,6 440,160,2"/>
-<line name="line3" origin="407.429706,83" bounds="368,84,440,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,84,6 440,84,2 440,160,2"/>
-</element>
-<rect name="rc1" origin="721.785584,174.883942" bounds="368,84,440,160" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1064.916242,173.383942" bounds="368,84,440,160" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1348.57415,179.83601" bounds="368,84,440,160" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="408,121" bounds="368,84,440,160" selectmode="0">
-<rect name="rc3" origin="464.202858,234.788078" bounds="368,84,440,160" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="858.508512,639.288566" bounds="368,84,440,160" selectmode="0">
-<line name="line1" origin="368.5,151" bounds="368,84,368,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,84,6 368,160,2"/>
-<line name="line2" origin="429.5,166.526287" bounds="368,160,440,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,160,6 440,160,2"/>
-<line name="line3" origin="407.429706,83" bounds="368,84,440,160" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="368,84,6 440,84,2 440,160,2"/>
-</element>
-<rect name="rc1" origin="711.367822,196.014112" bounds="368,84,440,160" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1058.724514,190.288078" bounds="368,84,440,160" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="569,248" bounds="368,84,440,160" selectmode="0">
-<rect name="rect2" origin="407.7,119.4" bounds="368,84,440,160" backcolor="$8F5034" pattern="1" linecolor="$C4A99B" linewidth="5"/>
-<element name="element1" origin="408,134" bounds="384.785,101.784,423.215,142.216">
-<line name="line1" origin="401.785,128.084" bounds="384.785,113.184,416.105,130.816" pattern="1" linecolor="$B68C79" points="385.145,120.48,6 384.785,124.584,2 406.745,124.584,2 397.565,130.816,2 405.485,130.816,2 416.105,122.912,2 406.025,113.184,2 398.825,113.944,2 406.565,120.48,2 384.965,120.328,2 384.965,120.328,2"/>
-<line name="line3" origin="408.785,128.384" bounds="389.375,101.784,423.215,142.216" pattern="1" linecolor="$D3B2A3" points="389.555,110.144,6 389.555,101.784,2 423.215,101.784,2 423.215,142.216,2 389.555,142.216,2 389.555,133.856,2 394.235,133.856,2 394.235,137.504,2 416.735,137.504,2 416.555,106.648,2 394.235,106.648,2 394.235,110.448,2 389.375,110.144,2 389.555,109.84,2"/>
-</element>
-</element>
-<text name="txt1" origin="1325.478286,200.966181" bounds="368,84,440,160" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
-</element>
-</element>
-<element name="element6" description="MF0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-0
-
-
-1
-0
-0
-1
-0
-
-
-
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
-15263976
-12237498
-15263976
-1
-2
-1
-Reset the coil Y0
-Y0
-
-0
-0
-3
-Screen jump to  to screen0
-0
-0
-1
-2
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-1
-0
-1
-Y
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="197.499952,66.024973" bounds="372.5,207.5,433.2,269.3" selectmode="0" id="78">
-<element name="SHAPE1" origin="515.600028,351.175041" bounds="372.5,207.5,433.2,269.3" selectmode="0" visible="false">
-<rect name="rc3" origin="470.668552,274.062044" bounds="372.5,207.5,433.2,269.3" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="801.583694,665.884429" bounds="372.5,207.5,433.2,269.3">
-<line name="line1" origin="373,274.5" bounds="372.5,207.5,372.5,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,207.5,6 372.5,269.3,2"/>
-<line name="line2" origin="434,290.026287" bounds="372.5,269.3,433.2,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,269.3,6 433.2,269.3,2"/>
-<line name="line3" origin="411.929706,206.5" bounds="372.5,207.5,433.2,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,207.5,6 433.2,207.5,2 433.2,269.3,2"/>
-</element>
-<rect name="rc1" origin="726.285584,298.383942" bounds="372.5,207.5,433.2,269.3" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1069.416242,296.883942" bounds="372.5,207.5,433.2,269.3" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1353.07415,303.33601" bounds="372.5,207.5,433.2,269.3" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="405.600028,242.175041" bounds="372.5,207.5,433.2,269.3" selectmode="0">
-<rect name="rc3" origin="468.702858,358.288078" bounds="372.5,207.5,433.2,269.3" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="863.008512,762.788566" bounds="372.5,207.5,433.2,269.3" selectmode="0">
-<line name="line1" origin="373,274.5" bounds="372.5,207.5,372.5,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,207.5,6 372.5,269.3,2"/>
-<line name="line2" origin="434,290.026287" bounds="372.5,269.3,433.2,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,269.3,6 433.2,269.3,2"/>
-<line name="line3" origin="411.929706,206.5" bounds="372.5,207.5,433.2,269.3" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="372.5,207.5,6 433.2,207.5,2 433.2,269.3,2"/>
-</element>
-<rect name="rc1" origin="715.867822,319.514112" bounds="372.5,207.5,433.2,269.3" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1063.224514,313.788078" bounds="372.5,207.5,433.2,269.3" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="522.5,285.5" bounds="372.5,207.5,433.2,269.3" selectmode="0">
-<element name="element43" origin="457.5,292.5" bounds="372.5,207.5,433.2,269.3">
-<line name="line6" origin="231.5,107" bounds="372.5,207.5,433.2,269.3" backcolor="$0" frontcolor="$8F5473" pattern="246" linetype="0" points="373.244785,239.432106,6 373.244785,256.409203,2 372.5,267.404295,4 375.106749,268.920858,4 385.533743,268.920858,4 420.166257,268.920858,2 430.593251,269.3,4 433.2,265.129448,4 432.827607,256.030061,4 432.827607,220.390798,2 432.827607,208.258282,4 431.338037,207.879142,4 420.911042,208.258282,4 384.416564,208.258282,2 375.106749,207.5,4 372.5,210.533129,4 373.244785,219.632515,4"/>
-<line name="line1" origin="236.5,111.5" bounds="374.285293,209.135883,431.414707,267.300588" backcolor="$800080" pattern="246" linetype="0" points="374.986268,239.189629,6 374.986268,255.168073,2 374.285293,265.516395,4 376.738704,266.94375,4 386.552346,266.94375,4 419.147654,266.94375,2 428.961296,267.300588,4 431.414707,263.375363,4 431.064219,254.811234,4 431.064219,221.268398,2 431.064219,209.84956,4 429.66227,209.49272,4 419.848628,209.84956,4 385.500884,209.84956,2 376.738704,209.135883,4 374.285293,211.990592,4 374.986268,220.55472,4"/>
-<line name="line7" origin="244,120" bounds="376.963236,212.225883,428.736764,264.937648" backcolor="$A85E8E" frontcolor="$8F5473" pattern="1" linetype="0" points="377.598494,239.462092,6 377.598494,253.942555,2 376.963236,263.320722,4 379.186638,264.614263,4 388.08025,264.614263,4 417.61975,264.614263,2 426.513362,264.937648,4 428.736764,261.380412,4 428.419136,253.619171,4 428.419136,223.220975,2 428.419136,212.872653,4 427.14862,212.549268,4 418.255008,212.872653,4 387.127364,212.872653,2 379.186638,212.225883,4 376.963236,214.812963,4 377.598494,222.574205,4"/>
-</element>
-<element name="element38" origin="424.5,262.1" bounds="379.498352,218.405883,427.13,255.849412">
-<rect name="rect6" origin="390.498352,253.605883" bounds="385.084781,234.540087,390.230174,255.849412" pattern="1" linetype="0"/>
-<rect name="rect7" origin="432.498352,253.605883" bounds="415.957144,234.540087,421.102538,255.849412" pattern="1" linetype="0"/>
-<rect name="rect8" origin="411.898352,263.805883" bounds="385.231791,250.065452,421.102538,255.849412" pattern="1" linetype="0"/>
-<line name="line1" origin="411.898352,229.005883" bounds="379.498352,218.405883,427.13,234.540087" pattern="1" linetype="0" points="386.848916,234.540087,6 390.083164,234.540087,2 403.314176,225.711937,2 415.957144,234.540087,2 427.13,234.540087,2 403.608199,218.405883,2 379.498352,234.540087,2"/>
-<rect name="rect9" origin="397.498352,225.805883" bounds="390.083164,220.232396,395.375569,227.84287" pattern="1" linetype="0"/>
-</element>
-<line name="line5" origin="464.5,245.5" bounds="377.141764,212.589412,428.558236,245.125293" alpha="60" backcolor="$A85E8E" frontcolor="$FFFFFF" pattern="244" linetype="0" points="391.781177,212.744414,6 422.131177,212.744414,2 428.558236,212.952943,4 427.844117,216.406471,4 428.201177,220.041764,4 428.419136,244.761764,2 419.274707,233.855883,4 389.638823,228.766471,4 377.855883,245.125293,4 377.855883,218.769412,2 377.141764,214.845301,4 381.426471,212.589412,4 383.925883,212.589412,4"/>
-</element>
-<text name="txt1" origin="1329.978286,324.466181" bounds="372.5,207.5,433.2,269.3" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+<text name="txt1" origin="1158.478286,228.966181" bounds="201,112,271,201" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
 </element>
 </element>
 <rect name="rect1" description="SP0000
@@ -2044,7 +878,7 @@ Logotipo Omega.jpg
 0
 0
 0
-" origin="236,22" bounds="0,0,481,63.1" selectmode="0" id="50" backcolor="$663333" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
+" origin="236,22" bounds="0,0,481,47" selectmode="0" id="50" backcolor="$663333" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
 <rect name="rect3" description="SP0000
 Logotipo Omega.jpg
 Logotipo Omega.jpg
@@ -2096,7 +930,7 @@ Embobinadora Automática
 0
 0
 0
-" origin="246,28" bounds="92,12,384,56" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Embobinadora Automática"/>
+" origin="247,21" bounds="93,5,385,49" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Embobinadora Automática"/>
 <rect name="rect4" description="SP0000
 Logotipo Omega.jpg
 Logotipo Omega.jpg
@@ -2159,7 +993,7 @@ Logotipo Omega.jpg
 0
 0
 0
-" origin="318.149965,174.749994" bounds="318.100006,63.1,318.100006,273" id="51" linkmode="1" points="318.100006,63.1,6 318.100006,273,2"/>
+" origin="317.149965,174.749994" bounds="317.100006,45,317.100006,273" id="51" linkmode="1" points="317.100006,45,6 317.100006,273,2"/>
 <line name="line2" description="0
 1
 1
@@ -2180,9 +1014,442 @@ Logotipo Omega.jpg
 0
 0
 0
-" origin="153.799945,181.249988" bounds="153.699997,61.9,153.699997,273" id="51" linkmode="1" points="153.699997,61.9,6 153.699997,273,2"/>
+" origin="153.799945,181.249988" bounds="153.699997,47,153.699997,273" id="51" linkmode="1" points="153.699997,47,6 153.699997,273,2"/>
+<element name="element1" description="ND0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+24
+8888
+1
+0
+0
+1
+0
+1
+D
+0
+1
+4
+0
+0
+0
+0
+1
+0
+0
+65535
+0
+255
+0
+65280
+0
+0
+0
+
+
+0
+0
+0
+
+
+16777215
+16777215
+16777215
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="73.017702,136.209091" bounds="15,214,127,273" selectmode="0" id="16">
+<element name="SHAPE0" origin="30.617702,236.590909" bounds="15,214,127,273">
+<rect name="rc1" origin="31.3,53.618182" bounds="15,214.156188,126.950457,272.856828" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="75.4,53.418182" bounds="15,214.156188,126.950457,272.856828" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="113.2,267.318182" bounds="15.049543,214,127,272.70064" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="55,254.948485" bounds="15,214.156188,126.950457,272.856828">
+<line name="line4" origin="77.386957,210.440351" bounds="15.505996,214.466435,126.810518,214.492427" backcolor="$C0C0" linecolor="$FFFFFF" points="15.505996,214.466435,6 126.810518,214.492427,2"/>
+<line name="line1" origin="16.386957,285.386491" bounds="15.505996,214.156188,15.505996,272.724723" backcolor="$C0C0" linecolor="$FFFFFF" points="15.505996,214.156188,6 15.505996,272.724723,2"/>
+<line name="line2" origin="77.786957,294.286491" bounds="15,272.856828,126.950457,272.856828" backcolor="$C0C0" points="15,272.856828,6 126.950457,272.856828,2"/>
+<line name="line3" origin="94.786957,286.386491" bounds="126.059752,214.89267,126.059752,272.592618" backcolor="$C0C0" points="126.059752,214.89267,6 126.059752,272.592618,2"/>
+</element>
+<text name="txt1" origin="52.7,221.418182" bounds="15.166883,214.321053,126.390705,273" backcolor="$C0C0" fontname="Arial" fontsize="24" text="8888"/>
+</element>
+<element name="SHAPE1" origin="119.017702,237.209091" bounds="15,214,127,273" visible="false">
+<rect name="rc1" origin="31.3,53.618182" bounds="15,214.156188,126.950457,272.856828" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="75.4,53.418182" bounds="15,214.156188,126.950457,272.856828" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="113.2,267.318182" bounds="15.049543,214,127,272.70064" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="55,254.948485" bounds="15,214.156188,126.950457,272.856828">
+<line name="line4" origin="77.386957,210.440351" bounds="15.505996,214.466435,126.810518,214.492427" backcolor="$C0C0" linecolor="$FFFFFF" points="15.505996,214.466435,6 126.810518,214.492427,2"/>
+<line name="line1" origin="16.386957,285.386491" bounds="15.505996,214.156188,15.505996,272.724723" backcolor="$C0C0" linecolor="$FFFFFF" points="15.505996,214.156188,6 15.505996,272.724723,2"/>
+<line name="line2" origin="77.786957,294.286491" bounds="15,272.856828,126.950457,272.856828" backcolor="$C0C0" points="15,272.856828,6 126.950457,272.856828,2"/>
+<line name="line3" origin="94.786957,286.386491" bounds="126.059752,214.89267,126.059752,272.592618" backcolor="$C0C0" points="126.059752,214.89267,6 126.059752,272.592618,2"/>
+</element>
+<text name="txt1" origin="52.7,221.418182" bounds="15.166883,214.321053,126.390705,273" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+</element>
+<element name="element2" description="ND0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+24
+8888
+1
+0
+0
+1
+0
+1
+D
+1
+1
+4
+0
+0
+0
+0
+1
+0
+0
+65535
+0
+255
+0
+65280
+0
+0
+0
+
+
+0
+0
+0
+
+
+16777215
+16777215
+16777215
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="35.017702,178.209091" bounds="196,213,280,271" selectmode="0" id="16">
+<element name="SHAPE0" origin="196.617702,265.590909" bounds="196,213,280,271">
+<rect name="rc1" origin="212.3,52.618182" bounds="196,213.15354,279.962843,270.859255" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="256.4,52.418182" bounds="196,213.15354,279.962843,270.859255" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="294.2,266.318182" bounds="196.037157,213,280,270.705714" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="236,253.948485" bounds="196,213.15354,279.962843,270.859255">
+<line name="line4" origin="258.386957,209.437703" bounds="196.379497,213.458529,279.857889,213.48408" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,213.458529,6 279.857889,213.48408,2"/>
+<line name="line1" origin="197.386957,284.383843" bounds="196.379497,213.15354,196.379497,270.729389" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,213.15354,6 196.379497,270.729389,2"/>
+<line name="line2" origin="258.786957,293.283843" bounds="196,270.859255,279.962843,270.859255" backcolor="$C0C0" points="196,270.859255,6 279.962843,270.859255,2"/>
+<line name="line3" origin="275.786957,285.383843" bounds="279.294813,213.87754,279.294813,270.599522" backcolor="$C0C0" points="279.294813,213.87754,6 279.294813,270.599522,2"/>
+</element>
+<text name="txt1" origin="233.7,220.418182" bounds="196.125162,213.315611,279.543028,271" backcolor="$C0C0" fontname="Arial" fontsize="24" text="8888"/>
+</element>
+<element name="SHAPE1" origin="285.017702,266.209091" bounds="196,213,280,271" visible="false">
+<rect name="rc1" origin="212.3,52.618182" bounds="196,213.15354,279.962843,270.859255" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="256.4,52.418182" bounds="196,213.15354,279.962843,270.859255" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="294.2,266.318182" bounds="196.037157,213,280,270.705714" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="236,253.948485" bounds="196,213.15354,279.962843,270.859255">
+<line name="line4" origin="258.386957,209.437703" bounds="196.379497,213.458529,279.857889,213.48408" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,213.458529,6 279.857889,213.48408,2"/>
+<line name="line1" origin="197.386957,284.383843" bounds="196.379497,213.15354,196.379497,270.729389" backcolor="$C0C0" linecolor="$FFFFFF" points="196.379497,213.15354,6 196.379497,270.729389,2"/>
+<line name="line2" origin="258.786957,293.283843" bounds="196,270.859255,279.962843,270.859255" backcolor="$C0C0" points="196,270.859255,6 279.962843,270.859255,2"/>
+<line name="line3" origin="275.786957,285.383843" bounds="279.294813,213.87754,279.294813,270.599522" backcolor="$C0C0" points="279.294813,213.87754,6 279.294813,270.599522,2"/>
+</element>
+<text name="txt1" origin="233.7,220.418182" bounds="196.125162,213.315611,279.543028,271" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+</element>
+<text name="text4" description="16777215
+255
+0
+0
+0
+10
+0
+0
+0
+4
+0
+100
+System
+Iniciar
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="453,90" bounds="346,64,460,96" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="24" text="Iniciar"/>
+<element name="element5" description="MF0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+1
+0
+
+
+
+
+
+System
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+1
+0
+4
+16777215
+16777215
+16777215
+1
+3
+0
+Setting the coil Y0
+Y0
+
+0
+0
+3
+Screen jump to  2 Screen
+2 Screen
+2
+1
+2
+1
+Reset the coil Y0
+Y0
+
+2
+0
+0
+
+
+
+0
+0
+0
+
+
+
+0
+0
+0
+
+
+
+0
+0
+0
+
+
+
+0
+0
+0
+
+
+
+0
+0
+1
+0
+1
+Y
+0
+0
+0
+0
+
+
+1
+0
+1
+Y
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="79,57" bounds="320,122,481,273" selectmode="0" id="78">
+<element name="SHAPE1" origin="461,272" bounds="320,122,481,273" selectmode="0" visible="false">
+<rect name="rc3" origin="418.168552,188.562044" bounds="320,122,481,273" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="749.083694,580.384429" bounds="320,122,481,273">
+<line name="line1" origin="320.5,189" bounds="320,122,320,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,122,6 320,273,2"/>
+<line name="line2" origin="381.5,204.526287" bounds="320,273,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,273,6 481,273,2"/>
+<line name="line3" origin="359.429706,121" bounds="320,122,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,122,6 481,122,2 481,273,2"/>
+</element>
+<rect name="rc1" origin="673.785584,212.883942" bounds="320,122,481,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1016.916242,211.383942" bounds="320,122,481,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1300.57415,217.83601" bounds="320,122,481,273" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="351,163" bounds="320,122,481,273" selectmode="0">
+<rect name="rc3" origin="416.202858,272.788078" bounds="320,122,481,273" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="810.508512,677.288566" bounds="320,122,481,273" selectmode="0">
+<line name="line1" origin="320.5,189" bounds="320,122,320,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,122,6 320,273,2"/>
+<line name="line2" origin="381.5,204.526287" bounds="320,273,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,273,6 481,273,2"/>
+<line name="line3" origin="359.429706,121" bounds="320,122,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="320,122,6 481,122,2 481,273,2"/>
+</element>
+<rect name="rc1" origin="663.367822,234.014112" bounds="320,122,481,273" selectmode="0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1010.724514,228.288078" bounds="320,122,481,273" selectmode="0" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="778,344" bounds="320,122,481,273" selectmode="0">
+<element name="element31" origin="470,272" bounds="320,122,481,273">
+<rect name="rect1" origin="469.5,272.5" bounds="326.44,129.046665,474.023333,266.456665" backcolor="$0" pattern="1"/>
+<element name="element6" origin="470,272" bounds="320,122,481,273">
+<line name="line1" origin="447,142" bounds="320,122,481,132.066665" frontcolor="$A0A0A0" pattern="252" linetype="0" points="320,122,6 481,122,2 470.266667,132.066665,2 330.733333,132.066665,2"/>
+<line name="line2" origin="466,406" bounds="320,262.933335,481,273" backcolor="$A0A0A0" frontcolor="$4D4D4D" pattern="250" linetype="0" points="320,273,6 481,273,2 470.266667,262.933335,2 330.733333,262.933335,2"/>
+<line name="line3" origin="330,272" bounds="320,122,330.733333,273" frontcolor="$A0A0A0" pattern="251" linetype="0" points="320,122,6 330.733333,132.066665,2 330.733333,262.933335,2 320,273,2"/>
+<line name="line4" origin="529,273" bounds="470.266667,122,481,273" backcolor="$7F7F7F" frontcolor="$4D4D4D" pattern="250" linetype="0" points="481,122,6 470.266667,132.066665,2 470.266667,262.933335,2 481,273,2"/>
+</element>
+</element>
+<rect name="rect1" origin="472.166667,272.833333" bounds="338.54295,139.471501,463.345905,254.952419" backcolor="$FF00" pattern="1"/>
+<line name="line1" origin="470.666667,165.833333" bounds="332.701113,133.99611,468.656667,142.491262" backcolor="$FF00" pattern="244" linetype="0" points="332.701113,133.99611,6 468.656667,133.99611,2 459.592963,142.491262,2 341.764813,142.491262,2"/>
+<line name="line2" origin="489.666667,429.833333" bounds="332.701113,252.928183,468.656667,261.423335" backcolor="$0" frontcolor="$FF00" pattern="244" linetype="0" points="332.701113,261.423335,6 468.656667,261.423335,2 459.592963,252.928183,2 341.764813,252.928183,2"/>
+<line name="line3" origin="353.666667,295.833333" bounds="332.701113,133.99611,341.764813,261.423335" backcolor="$FF00" pattern="242" linetype="0" points="332.701113,133.99611,6 341.764813,142.491262,2 341.764813,252.928183,2 332.701113,261.423335,2"/>
+<line name="line4" origin="552.666667,296.833333" bounds="459.592963,133.99611,468.656667,261.423335" backcolor="$0" frontcolor="$FF00" pattern="242" linetype="0" points="468.656667,133.99611,6 459.592963,142.491262,2 459.592963,252.928183,2 468.656667,261.423335,2"/>
+</element>
+<text name="txt1" origin="1277.478286,238.966181" bounds="320,122,481,273" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+</element>
+</element>
 </sheet>
-<sheet name="Automática2" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
+<sheet name="Estatus" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
 <rect name="Lock1" origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
 <rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
 <rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
@@ -2238,13 +1505,13 @@ Modo: Automático
 0
 0
 0
-" origin="295.624999,167" bounds="295.600006,56,295.600006,273" id="51" linkmode="1" points="295.600006,56,6 295.600006,273,2"/>
+" origin="310.624999,167" bounds="310.600006,0,310.600006,273" id="51" linkmode="1" points="310.600006,0,6 310.600006,273,2"/>
 <text name="text4" description="16777215
 255
 0
 0
 0
-5
+9
 0
 0
 0
@@ -2252,7 +1519,7 @@ Modo: Automático
 0
 100
 System
-No. de Piezas Embobinadas
+Bobinas cortadas
 0
 2
 0
@@ -2269,13 +1536,13 @@ No. de Piezas Embobinadas
 0
 0
 0
-" origin="447.285297,60.801471" bounds="298.1,56.799999,481,76.799999" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="14" text="No. de Piezas Embobinadas"/>
+" origin="464.285297,11.801471" bounds="309,7.8,481,27.8" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="21" text="Bobinas cortadas"/>
 <text name="text5" description="16777215
 255
 0
 0
 0
-4
+10
 0
 0
 0
@@ -2300,7 +1567,7 @@ Salir
 0
 0
 0
-" origin="441.375,212" bounds="391.399988,200,480.399988,224" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="12" text="Salir"/>
+" origin="372.375,233" bounds="322.399994,221,392.999994,245" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="24" text="Salir"/>
 <line name="LI0001" description="0
 1
 1
@@ -2321,13 +1588,13 @@ Salir
 0
 0
 0
-" origin="423.100024,195.508327" bounds="295.1,193.699997,481,193.699997" id="51" linkmode="1" points="481,193.699997,6 295.1,193.699997,2"/>
+" origin="423.100024,195.508327" bounds="310.6,193.699997,481,193.999997" id="51" linkmode="1" points="481,193.699997,6 310.6,193.999997,2"/>
 <text name="text2" description="16777215
 255
 0
 0
 0
-4
+9
 0
 0
 0
@@ -2335,7 +1602,7 @@ Salir
 0
 100
 System
-Regresar
+de
 0
 2
 0
@@ -2352,327 +1619,7 @@ Regresar
 0
 0
 0
-" origin="340.75,210.75" bounds="316.89999,198.800003,379.79999,222.800003" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="12" text="Regresar"/>
-<text name="text3" description="16777215
-255
-0
-0
-0
-5
-0
-0
-0
-4
-0
-100
-System
-No. de Bobinas Esperadas
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="428.682357,136" bounds="300.300006,132,478.700006,152" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="14" text="No. de Bobinas Esperadas"/>
-<element name="element5" description="SB0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-1
-1
-0
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
-15263976
-12237498
-15263976
-1
-0
-2
-2
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="84.999999,53.875" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" id="3">
-<element name="SHAPE1" origin="468.999999,360.875" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" visible="false">
-<rect name="rc3" origin="425.168551,292.437044" bounds="326.999999,225.875,370.999999,270.875" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="756.083693,684.259429" bounds="326.999999,225.875,370.999999,270.875">
-<line name="line1" origin="327.499999,292.875" bounds="326.999999,225.875,326.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,225.875,6 326.999999,270.875,2"/>
-<line name="line2" origin="388.499999,308.401287" bounds="326.999999,270.875,370.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,270.875,6 370.999999,270.875,2"/>
-<line name="line3" origin="366.429705,224.875" bounds="326.999999,225.875,370.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,225.875,6 370.999999,225.875,2 370.999999,270.875,2"/>
-</element>
-<rect name="rc1" origin="680.785583,316.758942" bounds="326.999999,225.875,370.999999,270.875" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1023.916241,315.258942" bounds="326.999999,225.875,370.999999,270.875" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1307.574149,321.71101" bounds="326.999999,225.875,370.999999,270.875" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="366.999999,262.875" bounds="326.999999,225.875,370.999999,270.875" selectmode="0">
-<rect name="rc3" origin="423.202857,376.663078" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="817.508511,781.163566" bounds="326.999999,225.875,370.999999,270.875" selectmode="0">
-<line name="line1" origin="327.499999,292.875" bounds="326.999999,225.875,326.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,225.875,6 326.999999,270.875,2"/>
-<line name="line2" origin="388.499999,308.401287" bounds="326.999999,270.875,370.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,270.875,6 370.999999,270.875,2"/>
-<line name="line3" origin="366.429705,224.875" bounds="326.999999,225.875,370.999999,270.875" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="326.999999,225.875,6 370.999999,225.875,2 370.999999,270.875,2"/>
-</element>
-<rect name="rc1" origin="670.367821,337.889112" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1017.724513,332.163078" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="437.199999,389.875" bounds="326.999999,225.875,370.999999,270.875" selectmode="0">
-<rect name="rect2" origin="366.699999,261.275" bounds="326.999999,225.875,370.999999,270.875" backcolor="$8F5034" pattern="1" linecolor="$C4A99B" linewidth="5"/>
-<element name="element1" origin="366.999999,275.875" bounds="336.459999,236.405,361.539999,260.345">
-<line name="line1" origin="353.859999,263.005" bounds="336.459999,243.38,355.599999,253.37" pattern="1" linecolor="$C09C8C" points="355.379999,247.07,6 341.959999,246.98,2 347.129999,243.38,2 342.289999,243.38,2 336.459999,248.42,2 342.399999,253.37,2 347.129999,253.37,2 342.179999,249.32,2 355.599999,249.32,2 355.489999,247.25,2 355.489999,247.25,2"/>
-<line name="line2" origin="363.359999,263.005" bounds="340.859999,236.405,361.539999,260.345" pattern="1" linecolor="$D3B2A3" points="340.969999,241.355,6 340.969999,236.405,2 361.539999,236.405,2 361.539999,260.345,2 340.969999,260.345,2 340.969999,255.395,2 343.829999,255.395,2 343.829999,257.555,2 357.579999,257.555,2 357.469999,239.285,2 343.829999,239.285,2 343.829999,241.535,2 340.859999,241.355,2 340.969999,241.175,2"/>
-</element>
-</element>
-<text name="txt1" origin="1284.478285,342.841181" bounds="326.999999,225.875,370.999999,270.875" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
-</element>
-</element>
-<rect name="RC0000" description="6697779
-16777215
-16777215
-1
-1
-1
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="236,22" bounds="0,0,481,56" selectmode="0" id="50" backcolor="$663333" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
-<rect name="rect1" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,28" bounds="12,16,84,40" selectmode="0" id="57" pattern="254" linetype="0"/>
-<text name="text6" description="16777215
-0
-16777215
-0
-0
-10
-0
-0
-0
-4
-0
-100
-System
-Modo: Automático
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="246,20" bounds="92,4,384,48" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Modo: Automático"/>
-<line name="line2" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="426.175004,124.533321" bounds="298.100006,123.699997,479.300006,123.699997" id="51" linkmode="1" points="479.300006,123.699997,6 298.100006,123.699997,2"/>
-<element name="element2" description="ND0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-16
-8888
-1
-0
-0
-1
-0
-1
-D
-0
-0
-4
-0
-0
-0
-0
-1
-0
-0
-65535
-0
-255
-0
-65280
-0
-0
-0
-
-
-0
-0
-0
-
-
-15263976
-15263976
-12237498
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="483.800006,273" bounds="322.800006,88,458.800006,112" selectmode="0" id="16">
-<element name="SHAPE1" origin="472.800006,238" bounds="322.800006,88,458.800006,112" visible="false">
-<rect name="rc3" origin="420.968558,154.562044" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="751.8837,546.384429" bounds="322.800006,88,458.800006,112">
-<line name="line1" origin="323.300006,155" bounds="322.800006,88,322.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,88,6 322.800006,112,2"/>
-<line name="line2" origin="384.300006,170.526287" bounds="322.800006,112,458.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,112,6 458.800006,112,2"/>
-<line name="line3" origin="362.229712,87" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,88,6 458.800006,88,2 458.800006,112,2"/>
-</element>
-<rect name="rc1" origin="676.58559,178.883942" bounds="322.800006,88,458.800006,112" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1019.716248,177.383942" bounds="322.800006,88,458.800006,112" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1303.374156,183.83601" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="472.800006,238" bounds="322.800006,88,458.800006,112">
-<rect name="rc3" origin="419.002864,238.788078" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="813.308518,643.288566" bounds="322.800006,88,458.800006,112">
-<line name="line1" origin="323.300006,155" bounds="322.800006,88,322.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,88,6 322.800006,112,2"/>
-<line name="line2" origin="384.300006,170.526287" bounds="322.800006,112,458.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,112,6 458.800006,112,2"/>
-<line name="line3" origin="362.229712,87" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.800006,88,6 458.800006,88,2 458.800006,112,2"/>
-</element>
-<rect name="rc1" origin="666.167828,200.014112" bounds="322.800006,88,458.800006,112" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1013.52452,194.288078" bounds="322.800006,88,458.800006,112" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1280.278292,204.966181" bounds="322.800006,88,458.800006,112" backcolor="$C0C0" fontname="Arial" fontsize="16" text="8888"/>
-</element>
-</element>
+" origin="545.185297,118.001471" bounds="298.1,114,481,134" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="21" text="de"/>
 <element name="element3" description="ND0000
 0
 1
@@ -2684,7 +1631,7 @@ D
 
 
 0
-16
+24
 8888
 1
 0
@@ -2694,7 +1641,306 @@ D
 1
 D
 0
+1
+4
 0
+0
+0
+0
+1
+0
+0
+65535
+0
+255
+0
+65280
+0
+0
+0
+
+
+0
+0
+0
+
+
+15263976
+16777215
+16777215
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="493.800006,346" bounds="314,147,479,188" selectmode="0" id="16">
+<element name="SHAPE1" origin="479.799988,311" bounds="314,147,479,188" visible="false">
+<rect name="rc3" origin="412.168552,213.562044" bounds="314,147,479,188" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="743.083694,605.384429" bounds="314,147,479,188">
+<line name="line1" origin="314.5,214" bounds="314,147,314,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,147,6 314,188,2"/>
+<line name="line2" origin="375.5,229.526287" bounds="314,188,479,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,188,6 479,188,2"/>
+<line name="line3" origin="353.429706,146" bounds="314,147,479,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,147,6 479,147,2 479,188,2"/>
+</element>
+<rect name="rc1" origin="667.785584,237.883942" bounds="314,147,479,188" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1010.916242,236.383942" bounds="314,147,479,188" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1294.57415,242.83601" bounds="314,147,479,188" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="479.799988,311" bounds="314,147,479,188">
+<rect name="rc3" origin="410.202858,297.788078" bounds="314,147,479,188" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="804.508512,702.288566" bounds="314,147,479,188">
+<line name="line1" origin="314.5,214" bounds="314,147,314,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,147,6 314,188,2"/>
+<line name="line2" origin="375.5,229.526287" bounds="314,188,479,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,188,6 479,188,2"/>
+<line name="line3" origin="353.429706,146" bounds="314,147,479,188" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="314,147,6 479,147,2 479,188,2"/>
+</element>
+<rect name="rc1" origin="657.367822,259.014112" bounds="314,147,479,188" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1004.724514,253.288078" bounds="314,147,479,188" backcolor="$E8E8E8" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1271.478286,263.966181" bounds="314,147,479,188" backcolor="$C0C0" fontname="Arial" fontsize="24" text="8888"/>
+</element>
+</element>
+<element name="element2" description="MF0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+1
+0
+
+
+
+
+
+System
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+1
+0
+4
+15263976
+12237498
+15263976
+1
+2
+3
+Screen jump to  to screen0
+0
+0
+0
+2
+1
+Reset the coil M0
+M0
+
+1
+0
+0
+
+
+
+-1
+0
+0
+
+
+
+-1
+0
+0
+
+
+
+-1
+0
+0
+
+
+
+-1
+0
+0
+
+
+
+-1
+0
+0
+
+
+
+0
+0
+0
+0
+0
+
+
+1
+0
+1
+M
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="84,61" bounds="396,195,481,273" selectmode="0" id="78">
+<element name="SHAPE1" origin="577.300028,354.850022" bounds="396,195,481,273" selectmode="0" visible="false">
+<rect name="rc3" origin="494.168552,261.562044" bounds="396,195,481,273" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="825.083694,653.384429" bounds="396,195,481,273">
+<line name="line1" origin="396.5,262" bounds="396,195,396,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,195,6 396,273,2"/>
+<line name="line2" origin="457.5,277.526287" bounds="396,273,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,273,6 481,273,2"/>
+<line name="line3" origin="435.429706,194" bounds="396,195,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,195,6 481,195,2 481,273,2"/>
+</element>
+<rect name="rc1" origin="749.785584,285.883942" bounds="396,195,481,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1092.916242,284.383942" bounds="396,195,481,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1376.57415,290.83601" bounds="396,195,481,273" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="474.2,263.400006" bounds="396,195,481,273" selectmode="0">
+<rect name="rc3" origin="492.202858,345.788078" bounds="396,195,481,273" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="886.508512,750.288566" bounds="396,195,481,273" selectmode="0">
+<line name="line1" origin="396.5,262" bounds="396,195,396,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,195,6 396,273,2"/>
+<line name="line2" origin="457.5,277.526287" bounds="396,273,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,273,6 481,273,2"/>
+<line name="line3" origin="435.429706,194" bounds="396,195,481,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="396,195,6 481,195,2 481,273,2"/>
+</element>
+<rect name="rc1" origin="739.367822,307.014112" bounds="396,195,481,273" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1086.724514,301.288078" bounds="396,195,481,273" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="800.734513,241" bounds="396,195,481,273" selectmode="0">
+<rect name="rect2" origin="427.25,239" bounds="396,195,481,273" backcolor="$C000" pattern="1" linetype="0"/>
+<line name="line5" origin="411.25,231.25" bounds="429.37037,208.288889,429.37037,266.644445" backcolor="$C0C0" linecolor="$E0FFC0" points="429.37037,208.288889,6 429.37037,266.644445,2"/>
+<line name="line6" origin="399.5,233" bounds="399.777778,238.911112,428.740741,238.911112" backcolor="$C0C0" linecolor="$A0FFA0" points="399.777778,238.911112,6 428.740741,238.911112,2"/>
+<line name="line3" origin="398.4,224.1" bounds="399.651851,220.422221,425.592592,236.831112" pattern="1" linecolor="$C000" points="407.459259,236.831112,6 399.651851,228.048888,2 406.703705,220.422221,2 414.511111,220.422221,2 414.511111,222.04,2 409.474073,223.657778,2 409.474073,225.737778,2 425.592592,225.737778,2 425.592592,231.053334,2 409.222223,231.053334,2 409.222223,232.671112,2 414.762963,234.52,2 414.762963,236.6,2 407.962963,236.6,2 407.962963,236.6,2"/>
+<element name="element3" origin="431.65,230.9" bounds="435.666666,210.831112,473.822222,262.137778">
+<circle name="circle2" origin="449.766666,220.631112" bounds="450.14815,219.382222,456.696296,224.928888" pattern="1" linecolor="$C000"/>
+<line name="line4" origin="450.966666,233.031112" bounds="435.666666,210.831112,473.822222,262.137778" pattern="1" linecolor="$C000" points="453.17037,262.137778,6 435.666666,259.711111,2 436.044446,210.831112,2 473.570371,210.831112,2 473.822222,261.906666,2 468.281482,261.213333,2 464.755555,256.822222,2 465.511112,215.453334,2 446.118519,215.222222,2 445.866667,256.591111,2 452.414816,257.515555,2 452.666666,261.906666,2 452.666666,261.906666,2"/>
+<line name="line7" origin="453.566666,237.331112" bounds="445.362964,224.582222,468.407407,257.631112" pattern="1" linecolor="$C000" points="448.25926,256.475555,6 448.133334,256.475555,2 453.17037,240.875555,2 452.540741,232.786666,2 448.762964,236.831112,2 445.362964,237.062222,2 447.881481,234.52,2 450.651852,231.631111,2 451.785187,227.933334,2 455.688889,225.737778,2 457.955555,225.275555,2 460.474074,224.582222,2 462.237036,228.048888,2 464.503706,229.897778,2 467.274074,233.826666,2 466.770372,234.52,2 459.466666,229.666666,2 458.207408,230.36,2 460.222223,237.177778,2 461.355556,239.604445,2 460.977778,245.151112,2 461.355556,246.653334,2 468.407407,246.768888,2 468.407407,249.773334,2 468.155556,249.542222,2 458.962963,249.542222,2 457.82963,243.071112,2 456.318518,243.186666,2 455.05926,247.231111,2 452.288889,254.857778,2 448.133334,257.631112,2 449.392594,256.475555,2"/>
+</element>
+</element>
+<text name="txt1" origin="1353.478286,311.966181" bounds="396,195,481,273" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element8" description="ND0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+24
+8888
+1
+0
+0
+1
+0
+1
+C*
+0
+1
 4
 0
 0
@@ -2720,188 +1966,7 @@ D
 
 15263976
 15263976
-12237498
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="483.800006,345" bounds="322.799988,160,458.799988,184" selectmode="0" id="16">
-<element name="SHAPE1" origin="472.799988,310" bounds="322.799988,160,458.799988,184" visible="false">
-<rect name="rc3" origin="420.96854,226.562044" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="751.883682,618.384429" bounds="322.799988,160,458.799988,184">
-<line name="line1" origin="323.299988,227" bounds="322.799988,160,322.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,160,6 322.799988,184,2"/>
-<line name="line2" origin="384.299988,242.526287" bounds="322.799988,184,458.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,184,6 458.799988,184,2"/>
-<line name="line3" origin="362.229694,159" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,160,6 458.799988,160,2 458.799988,184,2"/>
-</element>
-<rect name="rc1" origin="676.585572,250.883942" bounds="322.799988,160,458.799988,184" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1019.71623,249.383942" bounds="322.799988,160,458.799988,184" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1303.374138,255.83601" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-<element name="SHAPE0" origin="472.799988,310" bounds="322.799988,160,458.799988,184">
-<rect name="rc3" origin="419.002846,310.788078" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="813.3085,715.288566" bounds="322.799988,160,458.799988,184">
-<line name="line1" origin="323.299988,227" bounds="322.799988,160,322.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,160,6 322.799988,184,2"/>
-<line name="line2" origin="384.299988,242.526287" bounds="322.799988,184,458.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,184,6 458.799988,184,2"/>
-<line name="line3" origin="362.229694,159" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="322.799988,160,6 458.799988,160,2 458.799988,184,2"/>
-</element>
-<rect name="rc1" origin="666.16781,272.014112" bounds="322.799988,160,458.799988,184" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1013.524502,266.288078" bounds="322.799988,160,458.799988,184" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1280.278274,276.966181" bounds="322.799988,160,458.799988,184" backcolor="$C0C0" fontname="Arial" fontsize="16" text="8888"/>
-</element>
-</element>
-<element name="element4" description="MF0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-0
-
-
-1
-0
-0
-1
-0
-
-
-
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
 15263976
-12237498
-15263976
-1
-2
-1
-Reset the coil Y0
-Y0
-
-0
-0
-3
-Screen jump to  to screen0
-0
-0
-1
-2
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-1
-0
-1
-Y
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
 0
 1
 0
@@ -2924,59 +1989,31 @@ Y
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="239.999985,67.874999" bounds="415,220.600006,461.8,271.200006" selectmode="0" id="78">
-<element name="SHAPE1" origin="558.100028,353.050022" bounds="415,220.600006,461.8,271.200006" selectmode="0" visible="false">
-<rect name="rc3" origin="513.168552,287.16205" bounds="415,220.600006,461.8,271.200006" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="844.083694,678.984435" bounds="415,220.600006,461.8,271.200006">
-<line name="line1" origin="415.5,287.600006" bounds="415,220.600006,415,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,220.600006,6 415,271.200006,2"/>
-<line name="line2" origin="476.5,303.126293" bounds="415,271.200006,461.8,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,271.200006,6 461.8,271.200006,2"/>
-<line name="line3" origin="454.429706,219.600006" bounds="415,220.600006,461.8,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,220.600006,6 461.8,220.600006,2 461.8,271.200006,2"/>
+" origin="475,280" bounds="317,39,475,91" selectmode="0" id="16">
+<element name="SHAPE1" origin="453.799988,189" bounds="317,39,475,91" visible="false">
+<rect name="rc3" origin="415.168552,105.562044" bounds="317,39,475,91" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="746.083694,497.384429" bounds="317,39,475,91">
+<line name="line1" origin="317.5,106" bounds="317,39,317,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,39,6 317,91,2"/>
+<line name="line2" origin="378.5,121.526287" bounds="317,91,475,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,91,6 475,91,2"/>
+<line name="line3" origin="356.429706,38" bounds="317,39,475,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,39,6 475,39,2 475,91,2"/>
 </element>
-<rect name="rc1" origin="768.785584,311.483948" bounds="415,220.600006,461.8,271.200006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1111.916242,309.983948" bounds="415,220.600006,461.8,271.200006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1395.57415,316.436016" bounds="415,220.600006,461.8,271.200006" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+<rect name="rc1" origin="670.785584,129.883942" bounds="317,39,475,91" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1013.916242,128.383942" bounds="317,39,475,91" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1297.57415,134.83601" bounds="317,39,475,91" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
 </element>
-<element name="SHAPE0" origin="448.100028,244.050022" bounds="415,220.600006,461.8,271.200006" selectmode="0">
-<rect name="rc3" origin="511.202858,371.388084" bounds="415,220.600006,461.8,271.200006" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="905.508512,775.888572" bounds="415,220.600006,461.8,271.200006" selectmode="0">
-<line name="line1" origin="415.5,287.600006" bounds="415,220.600006,415,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,220.600006,6 415,271.200006,2"/>
-<line name="line2" origin="476.5,303.126293" bounds="415,271.200006,461.8,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,271.200006,6 461.8,271.200006,2"/>
-<line name="line3" origin="454.429706,219.600006" bounds="415,220.600006,461.8,271.200006" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="415,220.600006,6 461.8,220.600006,2 461.8,271.200006,2"/>
+<element name="SHAPE0" origin="453.799988,189" bounds="317,39,475,91">
+<rect name="rc3" origin="413.202858,189.788078" bounds="317,39,475,91" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="807.508512,594.288566" bounds="317,39,475,91">
+<line name="line1" origin="317.5,106" bounds="317,39,317,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,39,6 317,91,2"/>
+<line name="line2" origin="378.5,121.526287" bounds="317,91,475,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,91,6 475,91,2"/>
+<line name="line3" origin="356.429706,38" bounds="317,39,475,91" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="317,39,6 475,39,2 475,91,2"/>
 </element>
-<rect name="rc1" origin="758.367822,332.614118" bounds="415,220.600006,461.8,271.200006" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1105.724514,326.888084" bounds="415,220.600006,461.8,271.200006" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="565,298.600006" bounds="415,220.600006,461.8,271.200006" selectmode="0">
-<element name="element43" origin="500,305.600006" bounds="415,220.600006,461.8,271.200006">
-<line name="line6" origin="274,120.100006" bounds="415,220.600006,461.8,271.200006" backcolor="$0" frontcolor="$8F5473" pattern="246" linetype="0" points="415.574233,246.745064,6 415.574233,260.645405,2 415,269.647859,4 417.009816,270.889576,4 425.04908,270.889576,4 451.75092,270.889576,2 459.790184,271.200006,4 461.8,267.785282,4 461.512883,260.334975,4 461.512883,231.154608,2 461.512883,221.220865,4 460.364417,220.910436,4 452.325153,221.220865,4 424.18773,221.220865,2 417.009816,220.600006,4 415,223.083442,4 415.574233,230.533748,4"/>
-<line name="line1" origin="279,124.600006" bounds="416.37647,221.939418,460.42353,269.562947" backcolor="$800080" pattern="246" linetype="0" points="416.916925,246.546531,6 416.916925,259.629205,2 416.37647,268.102103,4 418.268062,269.270779,4 425.834428,269.270779,4 450.965572,269.270779,2 458.531938,269.562947,4 460.42353,266.34909,4 460.153302,259.337036,4 460.153302,231.87316,2 460.153302,222.523756,4 459.072393,222.231586,4 451.506026,222.523756,4 425.023746,222.523756,2 418.268062,221.939418,4 416.37647,224.276769,4 416.916925,231.288822,4"/>
-<line name="line7" origin="286.5,133.100006" bounds="418.441177,224.469418,458.358823,267.628242" backcolor="$A85E8E" frontcolor="$8F5473" pattern="1" linetype="0" points="418.930964,246.769615,6 418.930964,258.625787,2 418.441177,266.304351,4 420.155431,267.363464,4 427.01245,267.363464,4 449.78755,267.363464,2 456.644569,267.628242,4 458.358823,264.715683,4 458.11393,258.36101,4 458.11393,233.471872,2 458.11393,224.998974,4 457.134356,224.734196,4 450.277337,224.998974,4 426.27777,224.998974,2 420.155431,224.469418,4 418.441177,226.587642,4 418.930964,232.942316,4"/>
-</element>
-<element name="element38" origin="467,275.200006" bounds="420.395764,229.529418,457.12,260.187065">
-<rect name="rect6" origin="431.395764,264.729418" bounds="424.702928,242.739624,428.670052,260.187065" pattern="1" linetype="0"/>
-<rect name="rect7" origin="473.395764,264.729418" bounds="448.505673,242.739624,452.472797,260.187065" pattern="1" linetype="0"/>
-<rect name="rect8" origin="452.795764,274.929418" bounds="424.816274,255.451331,452.472797,260.187065" pattern="1" linetype="0"/>
-<line name="line1" origin="452.795764,240.129418" bounds="420.395764,229.529418,457.12,242.739624" pattern="1" linetype="0" points="426.063085,242.739624,6 428.556706,242.739624,2 438.757882,235.511398,2 448.505673,242.739624,2 457.12,242.739624,2 438.984575,229.529418,2 420.395764,242.739624,2"/>
-<rect name="rect9" origin="438.395764,236.929418" bounds="428.556706,231.024913,432.637177,237.256142" pattern="1" linetype="0"/>
-</element>
-<line name="line5" origin="507,258.600006" bounds="418.578823,224.767065,458.221177,251.406476" alpha="60" backcolor="$A85E8E" frontcolor="$FFFFFF" pattern="244" linetype="0" points="429.865883,224.893976,6 453.265883,224.893976,2 458.221177,225.064713,4 457.670588,227.892359,4 457.945883,230.868829,4 458.11393,251.108829,2 451.06353,242.179418,4 428.214117,238.012359,4 419.129412,251.406476,4 419.129412,229.827065,2 418.578823,226.61412,4 421.882353,224.767065,4 423.809412,224.767065,4"/>
-</element>
-<text name="txt1" origin="1372.478286,337.566187" bounds="415,220.600006,461.8,271.200006" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+<rect name="rc1" origin="660.367822,151.014112" bounds="317,39,475,91" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1007.724514,145.288078" bounds="317,39,475,91" backcolor="$E8E8E8" frontcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1274.478286,155.966181" bounds="317,39,475,91" backcolor="$C0C0" fontname="Arial" fontsize="24" text="8888"/>
 </element>
 </element>
-<element name="element10" description="BB0000
+<element name="element1" description="BB0000
 0
 1
 0
@@ -3003,12 +2040,12 @@ Y
 
 
 System
-OFF
-0
+PARO
+16777215
 0
 0
 4
-16
+40
 0
 0
 0
@@ -3034,9 +2071,9 @@ ON
 4
 0
 1
-15263976
-12237498
-15263976
+16777215
+16777215
+16777215
 1
 15263976
 12237498
@@ -3048,486 +2085,12 @@ ON
 0
 1
 Y
-2
-1
-0
-1
-Y
-2
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="434,328" bounds="31,82,256,251" selectmode="0" id="1">
-<element name="SHAPE1" origin="271,212" bounds="31,82,256,251" visible="false">
-<rect name="rc3" origin="129.815738,139.281405" bounds="31,82,256,251" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="279.750883,214.468772" bounds="31,82,256,251">
-<rect name="line1" origin="197.939663,190.156493" bounds="31,82,256,251" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
-<line name="line2" origin="270.939663,212.147649" bounds="31.937499,83.3,255.062501,249.7" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="31.937499,249.7,6 31.937499,83.3,2 255.062501,83.3,2 214.750002,156.1,2 150.062499,137.9,2 68.499999,219.799999,2"/>
-<line name="line3" origin="270.939663,215.390879" bounds="31.937499,83.3,255.062501,249.7" pattern="1" linetype="0" linewidth="0" points="31.937499,249.7,6 255.062501,249.7,2 255.062501,83.3,2 215.687501,137.9,2 135.999999,114.5,2 60.999998,209.400001,2"/>
-</element>
-<rect name="rc1" origin="481.424702,337.160173" bounds="38.03125,91.75,248.96875,241.25" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="128.003106,183.5" bounds="38.03125,91.75,248.96875,241.25" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="786.428898,109.63017" bounds="31,82,256,251" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0" text="ON"/>
-</element>
-<element name="SHAPE0" origin="271,212" bounds="31,82,256,251">
-<rect name="rc3" origin="136.030186,136.918759" bounds="31,82,256,251" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="271,212" bounds="31,82,256,251">
-<rect name="line3" origin="127,131" bounds="31,82,256,251" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
-<line name="line1" origin="277,217" bounds="31.937499,83.3,255.062501,249.7" pattern="1" linetype="0" linewidth="0" points="31.937499,249.7,6 31.937499,83.3,2 255.062501,83.3,2 214.750002,156.1,2 150.062499,137.9,2 68.499999,219.799999,2"/>
-<line name="line2" origin="277,217" bounds="31.937499,83.3,255.062501,249.7" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="31.937499,249.7,6 255.062501,249.7,2 255.062501,83.3,2 215.687501,137.9,2 135.999999,114.5,2 60.999998,209.400001,2"/>
-</element>
-<rect name="rc1" origin="340.863062,-437.133922" bounds="38.03125,91.75,248.96875,241.25" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="350.137028,-229.633922" bounds="38.03125,91.75,248.96875,241.25" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="972.833386,368.255614" bounds="31,82,256,251" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0" text="OFF"/>
-</element>
-</element>
-</sheet>
-<sheet name="Debug" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
-<rect name="Lock1" origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" showHint="false" link="LI0000,center" pattern="1" linecolor="$FFFFFF"/>
-<rect name="Lock4" origin="38,32" bounds="481,0,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
-<text name="text1" description="16777215
-0
-16777215
-0
-0
-10
-0
-0
-0
-4
-0
-100
-System
-Modo: Automático
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="258,20" bounds="104,4,396,48" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Modo: Automático"/>
-<rect name="RC0000" description="6697779
-16777215
-16777215
-1
-1
-1
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="236,22" bounds="0,0,481,56" selectmode="0" id="50" backcolor="$663333" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF"/>
-<rect name="rect1" description="SP0000
-Logotipo Omega.jpg
-Logotipo Omega.jpg
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="34,28" bounds="12,16,84,40" selectmode="0" id="57" pattern="254" linetype="0"/>
-<text name="text6" description="16777215
-0
-16777215
-0
-0
-10
-0
-0
-0
-4
-0
-100
-System
-Direcciones HMI/PLC
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="246,20" bounds="92,4,384,48" selectmode="0" id="56" fontname="Arial" fontsize="24" fontcolor="$FFFFFF" text="Direcciones HMI/PLC"/>
-<text name="text2" description="16777215
-255
-0
-0
-0
-6
-0
-0
-0
-4
-0
-100
-System
-Entradas
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="102.187491,81.874993" bounds="28.700001,63.799999,175.600001,99.999999" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Entradas"/>
-<line name="LI0000" description="0
-1
-1
-0
-0
-100
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="240.5,182.124996" bounds="240.5,55,240.5,273" id="51" link="Lock3,p0" linkmode="1" points="240.5,273,6 240.5,55,2"/>
-<text name="text3" description="16777215
-255
-0
-0
-0
-6
-0
-0
-0
-4
-0
-100
-System
-Salidas
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="364.087467,82.499987" bounds="290.600006,64.300003,437.500006,100.500003" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Salidas"/>
-<text name="text4" description="16777215
-255
-0
-0
-0
-6
-0
-0
-0
-4
-0
-100
-System
-X0: Botón verde -&gt; Inicio 
-
-X1: Sensor Fotoeléctrico - &gt; Número de vueltas
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="79.737489,121.199985" bounds="6.3,103.099998,228.8,184.399998" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="X0: Botón verde -&gt; Inicio 
-
-X1: Sensor Fotoeléctrico - &gt; Número de vueltas"/>
-<text name="text5" description="16777215
-255
-0
-0
-0
-6
-0
-0
-0
-4
-0
-100
-System
-Y0: Botón Verde -&gt;  Inicio Motor
-
-Y1: Botón Rojo -&gt; Paro  
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="344.112466,123.724978" bounds="252.199997,105.599998,474.699997,186.899998" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="16" text="Y0: Botón Verde -&gt;  Inicio Motor
-
-Y1: Botón Rojo -&gt; Paro  "/>
-<text name="text7" description="16777215
-255
-0
-0
-0
-4
-0
-0
-0
-4
-0
-100
-System
-Menu Principal
-0
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="442,212" bounds="392,200,481,224" selectmode="0" id="56" frontcolor="$FF" fontname="Arial" fontsize="12" text="Menu Principal"/>
-<element name="element4" description="MF0000
-0
-1
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-0
-
-
-1
-0
-0
-1
-0
-
-
-
-
-
-System
-
-0
-0
-0
-4
-16
-0
-0
-0
-0
-0
-1
-0
-4
-15263976
-12237498
-15263976
-1
-2
-1
-Reset the coil Y0
-Y0
-
-0
-0
 3
-Screen jump to  to screen0
-0
-0
-1
-2
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
-0
-
-
-
-0
-0
 1
 0
 1
 Y
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-
-
+3
 0
 0
 1
@@ -3550,57 +2113,92 @@ Y
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-" origin="237.499948,76.024973" bounds="412.5,222.4,459.3,273" selectmode="0" id="78">
-<element name="SHAPE1" origin="555.600028,354.850016" bounds="412.5,222.4,459.3,273" selectmode="0" visible="false">
-<rect name="rc3" origin="510.668552,288.962044" bounds="412.5,222.4,459.3,273" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="841.583694,680.784429" bounds="412.5,222.4,459.3,273">
-<line name="line1" origin="413,289.4" bounds="412.5,222.4,412.5,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,222.4,6 412.5,273,2"/>
-<line name="line2" origin="474,304.926287" bounds="412.5,273,459.3,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,273,6 459.3,273,2"/>
-<line name="line3" origin="451.929706,221.4" bounds="412.5,222.4,459.3,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,222.4,6 459.3,222.4,2 459.3,273,2"/>
+" origin="70,56" bounds="0,0,292,270" selectmode="0" id="1">
+<element name="SHAPE0" origin="34.999998,31.538462" bounds="0,0,292,270" selectmode="0">
+<rect name="rc3" origin="105.030186,54.918759" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="240,130" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0">
+<rect name="line3" origin="105.125004,64.576922" bounds="9.125004,15.576922,282.874996,254.423078" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line1" origin="255.125004,150.576922" bounds="10.265626,17.4142,281.734374,252.5858" pattern="1" linetype="0" linewidth="0" points="10.265626,252.5858,6 10.265626,17.4142,2 281.734374,17.4142,2 232.687502,120.301776,2 153.98437,94.579879,2 54.750001,210.328404,2"/>
+<line name="line2" origin="255.125004,150.576922" bounds="10.265626,17.4142,281.734374,252.5858" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="10.265626,252.5858,6 281.734374,252.5858,2 281.734374,17.4142,2 233.828124,94.579879,2 136.874996,61.508875,2 45.624997,195.63018,2"/>
 </element>
-<rect name="rc1" origin="766.285584,313.283942" bounds="412.5,222.4,459.3,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1109.416242,311.783942" bounds="412.5,222.4,459.3,273" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<text name="txt1" origin="1393.07415,318.23601" bounds="412.5,222.4,459.3,273" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+<rect name="rc1" origin="309.863062,-519.133922" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="319.137028,-311.633922" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" frontcolor="$FFFFFF" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="383,143" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0">
+<element name="element26" origin="159.125004,165.576922" bounds="9.125004,15.576922,282.874996,254.423078">
+<rect name="rect1" origin="158.625004,166.076922" bounds="20.075004,26.723074,271.012496,244.073074" backcolor="$0" pattern="1"/>
+<element name="element6" origin="159.125004,165.576922" bounds="9.125004,15.576922,282.874996,254.423078">
+<line name="line1" origin="136.125004,35.576922" bounds="9.125004,15.576922,282.874996,31.499998" frontcolor="$A0A0A0" pattern="252" linetype="0" points="9.125004,15.576922,6 282.874996,15.576922,2 264.624995,31.499998,2 27.375005,31.499998,2"/>
+<line name="line2" origin="155.125004,299.576922" bounds="9.125004,238.500002,282.874996,254.423078" backcolor="$A0A0A0" frontcolor="$4D4D4D" pattern="250" linetype="0" points="9.125004,254.423078,6 282.874996,254.423078,2 264.624995,238.500002,2 27.375005,238.500002,2"/>
+<line name="line3" origin="19.125004,165.576922" bounds="9.125004,15.576922,27.375005,254.423078" frontcolor="$A0A0A0" pattern="251" linetype="0" points="9.125004,15.576922,6 27.375005,31.499998,2 27.375005,238.500002,2 9.125004,254.423078,2"/>
+<line name="line4" origin="218.125004,166.576922" bounds="264.624995,15.576922,282.874996,254.423078" backcolor="$7F7F7F" frontcolor="$4D4D4D" pattern="250" linetype="0" points="282.874996,15.576922,6 264.624995,31.499998,2 264.624995,238.500002,2 282.874996,254.423078,2"/>
 </element>
-<element name="SHAPE0" origin="445.600028,245.850016" bounds="412.5,222.4,459.3,273" selectmode="0">
-<rect name="rc3" origin="508.702858,373.188078" bounds="412.5,222.4,459.3,273" selectmode="0" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="903.008512,777.688566" bounds="412.5,222.4,459.3,273" selectmode="0">
-<line name="line1" origin="413,289.4" bounds="412.5,222.4,412.5,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,222.4,6 412.5,273,2"/>
-<line name="line2" origin="474,304.926287" bounds="412.5,273,459.3,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,273,6 459.3,273,2"/>
-<line name="line3" origin="451.929706,221.4" bounds="412.5,222.4,459.3,273" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="412.5,222.4,6 459.3,222.4,2 459.3,273,2"/>
 </element>
-<rect name="rc1" origin="755.867822,334.414112" bounds="412.5,222.4,459.3,273" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="1103.224514,328.688078" bounds="412.5,222.4,459.3,273" selectmode="0" backcolor="$E8E8E8" frontcolor="$BABABA" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<element name="PICTURE" origin="562.5,300.4" bounds="412.5,222.4,459.3,273" selectmode="0">
-<element name="element43" origin="497.5,307.4" bounds="412.5,222.4,459.3,273">
-<line name="line6" origin="271.5,121.9" bounds="412.5,222.4,459.3,273" backcolor="$0" frontcolor="$8F5473" pattern="246" linetype="0" points="413.074233,248.545058,6 413.074233,262.445399,2 412.5,271.447853,4 414.509816,272.68957,4 422.54908,272.68957,4 449.25092,272.68957,2 457.290184,273,4 459.3,269.585276,4 459.012883,262.134969,4 459.012883,232.954602,2 459.012883,223.020859,4 457.864417,222.71043,4 449.825153,223.020859,4 421.68773,223.020859,2 414.509816,222.4,4 412.5,224.883436,4 413.074233,232.333742,4"/>
-<line name="line1" origin="276.5,126.4" bounds="413.87647,223.739412,457.92353,271.362941" backcolor="$800080" pattern="246" linetype="0" points="414.416925,248.346525,6 414.416925,261.429199,2 413.87647,269.902097,4 415.768062,271.070773,4 423.334428,271.070773,4 448.465572,271.070773,2 456.031938,271.362941,4 457.92353,268.149084,4 457.653302,261.13703,4 457.653302,233.673154,2 457.653302,224.32375,4 456.572393,224.03158,4 449.006026,224.32375,4 422.523746,224.32375,2 415.768062,223.739412,4 413.87647,226.076763,4 414.416925,233.088816,4"/>
-<line name="line7" origin="284,134.9" bounds="415.941177,226.269412,455.858823,269.428236" backcolor="$A85E8E" frontcolor="$8F5473" pattern="1" linetype="0" points="416.430964,248.569609,6 416.430964,260.425781,2 415.941177,268.104345,4 417.655431,269.163458,4 424.51245,269.163458,4 447.28755,269.163458,2 454.144569,269.428236,4 455.858823,266.515677,4 455.61393,260.161004,4 455.61393,235.271866,2 455.61393,226.798968,4 454.634356,226.53419,4 447.777337,226.798968,4 423.77777,226.798968,2 417.655431,226.269412,4 415.941177,228.387636,4 416.430964,234.74231,4"/>
+<rect name="rect1" origin="161.291671,166.410255" bounds="40.653775,43.212689,252.857555,225.876088" backcolor="$FF" pattern="1"/>
+<line name="line1" origin="159.791671,59.410255" bounds="30.720838,34.551919,261.887495,47.989233" backcolor="$FF" pattern="244" linetype="0" points="30.720838,34.551919,6 261.887495,34.551919,2 246.476385,47.989233,2 46.131944,47.989233,2"/>
+<line name="line2" origin="178.791671,323.410255" bounds="30.720838,222.674224,261.887495,236.111542" backcolor="$0" frontcolor="$FF" pattern="244" linetype="0" points="30.720838,236.111542,6 261.887495,236.111542,2 246.476385,222.674224,2 46.131944,222.674224,2"/>
+<line name="line3" origin="42.791671,189.410255" bounds="30.720838,34.551919,46.131944,236.111542" backcolor="$FF" pattern="242" linetype="0" points="30.720838,34.551919,6 46.131944,47.989233,2 46.131944,222.674224,2 30.720838,236.111542,2"/>
+<line name="line4" origin="241.791671,190.410255" bounds="246.476385,34.551919,261.887495,236.111542" backcolor="$0" frontcolor="$FF" pattern="242" linetype="0" points="261.887495,34.551919,6 246.476385,47.989233,2 246.476385,222.674224,2 261.887495,236.111542,2"/>
 </element>
-<element name="element38" origin="464.5,277" bounds="417.895764,231.329412,454.62,261.987059">
-<rect name="rect6" origin="428.895764,266.529412" bounds="422.202928,244.539618,426.170052,261.987059" pattern="1" linetype="0"/>
-<rect name="rect7" origin="470.895764,266.529412" bounds="446.005673,244.539618,449.972797,261.987059" pattern="1" linetype="0"/>
-<rect name="rect8" origin="450.295764,276.729412" bounds="422.316274,257.251325,449.972797,261.987059" pattern="1" linetype="0"/>
-<line name="line1" origin="450.295764,241.929412" bounds="417.895764,231.329412,454.62,244.539618" pattern="1" linetype="0" points="423.563085,244.539618,6 426.056706,244.539618,2 436.257882,237.311392,2 446.005673,244.539618,2 454.62,244.539618,2 436.484575,231.329412,2 417.895764,244.539618,2"/>
-<rect name="rect9" origin="435.895764,238.729412" bounds="426.056706,232.824907,430.137177,239.056136" pattern="1" linetype="0"/>
+<text name="txt1" origin="941.833386,286.255614" bounds="0,0,292,270" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="40" fontcolor="$FFFFFF" borderinterval="0" text="PARO"/>
 </element>
-<line name="line5" origin="504.5,260.4" bounds="416.078823,226.567059,455.721177,253.20647" alpha="60" backcolor="$A85E8E" frontcolor="$FFFFFF" pattern="244" linetype="0" points="427.365883,226.69397,6 450.765883,226.69397,2 455.721177,226.864707,4 455.170588,229.692353,4 455.445883,232.668823,4 455.61393,252.908823,2 448.56353,243.979412,4 425.714117,239.812353,4 416.629412,253.20647,4 416.629412,231.627059,2 416.078823,228.414114,4 419.382353,226.567059,4 421.309412,226.567059,4"/>
+<element name="SHAPE1" origin="37.499999,36.269231" bounds="0,0,292,270" selectmode="0" visible="false">
+<rect name="rc3" origin="98.815738,57.281405" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="248.750883,132.468772" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0">
+<rect name="line1" origin="176.064667,123.733415" bounds="9.125004,15.576922,282.874996,254.423078" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line2" origin="249.064667,145.724571" bounds="10.265634,17.4142,281.734366,252.5858" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="10.265634,252.5858,6 10.265634,17.4142,2 281.734366,17.4142,2 232.687502,120.301776,2 153.984374,94.579879,2 54.750001,210.328404,2"/>
+<line name="line3" origin="249.064667,148.967801" bounds="10.265634,17.4142,281.734366,252.5858" pattern="1" linetype="0" linewidth="0" points="10.265634,252.5858,6 281.734366,252.5858,2 281.734366,17.4142,2 233.828124,94.579879,2 136.875,61.508875,2 45.624997,195.63018,2"/>
 </element>
-<text name="txt1" origin="1369.978286,339.366181" bounds="412.5,222.4,459.3,273" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+<rect name="rc1" origin="450.424702,255.160173" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="97.003106,101.5" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0" backcolor="$E8E8E8" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<element name="PICTURE" origin="257,143" bounds="9.125004,15.576922,282.874996,254.423078" selectmode="0">
+<element name="element25" origin="159.125004,165.576922" bounds="9.125004,15.576922,282.874996,254.423078">
+<rect name="rect1" origin="158.625004,166.076922" bounds="20.075004,26.723074,271.012496,244.073074" backcolor="$0" pattern="1"/>
+<element name="element6" origin="159.125004,165.576922" bounds="9.125004,15.576922,282.874996,254.423078">
+<line name="line1" origin="136.125004,35.576922" bounds="9.125004,15.576922,282.874996,31.499998" frontcolor="$A0A0A0" pattern="252" linetype="0" points="9.125004,15.576922,6 282.874996,15.576922,2 264.624995,31.499998,2 27.375005,31.499998,2"/>
+<line name="line2" origin="155.125004,299.576922" bounds="9.125004,238.500002,282.874996,254.423078" backcolor="$A0A0A0" frontcolor="$4D4D4D" pattern="250" linetype="0" points="9.125004,254.423078,6 282.874996,254.423078,2 264.624995,238.500002,2 27.375005,238.500002,2"/>
+<line name="line3" origin="19.125004,165.576922" bounds="9.125004,15.576922,27.375005,254.423078" frontcolor="$A0A0A0" pattern="251" linetype="0" points="9.125004,15.576922,6 27.375005,31.499998,2 27.375005,238.500002,2 9.125004,254.423078,2"/>
+<line name="line4" origin="218.125004,166.576922" bounds="264.624995,15.576922,282.874996,254.423078" backcolor="$7F7F7F" frontcolor="$4D4D4D" pattern="250" linetype="0" points="282.874996,15.576922,6 264.624995,31.499998,2 264.624995,238.500002,2 282.874996,254.423078,2"/>
+</element>
+</element>
+<element name="element10" origin="159.125004,169.076922" bounds="22.411004,29.716732,267.362495,240.888466">
+<element name="element7" origin="145.411004,151.716732" bounds="29.438304,35.799871,262.343,235.674344">
+<line name="line1" origin="144.938304,48.299871" bounds="29.438304,35.799871,261.339104,84.46496" frontcolor="$FF" pattern="244" linetype="0" points="29.438304,35.799871,6 261.339104,35.799871,2 205.120724,84.46496,2 85.656676,84.46496,2"/>
+<line name="line2" origin="145.938304,253.299871" bounds="30.442204,187.009255,262.343,235.674344" backcolor="$FF" frontcolor="$FFFFFF" pattern="244" linetype="0" points="30.442204,235.674344,6 262.343,235.674344,2 206.124624,187.009255,2 86.660576,187.009255,2"/>
+<line name="line3" origin="58.438304,150.299871" bounds="30.442204,35.799871,86.660576,235.674344" frontcolor="$FF" pattern="242" linetype="0" points="30.442204,35.799871,6 86.660576,84.46496,2 86.660576,187.009255,2 30.442204,235.674344,2"/>
+<line name="line5" origin="232.438304,150.299871" bounds="205.120724,35.799871,261.339104,235.674344" backcolor="$FF" frontcolor="$FFFFFF" pattern="242" linetype="0" points="261.339104,35.799871,6 205.120724,84.46496,2 205.120724,187.009255,2 261.339104,235.674344,2"/>
+<rect name="rect1" origin="144.938304,150.799871" bounds="84.652776,82.726921,206.124624,188.74729" backcolor="$FBFBFF" pattern="1" linetype="0"/>
+</element>
+<element name="element8" origin="145.411004,144.716732" bounds="29.438304,29.716732,262.343,229.591209" alpha="30">
+<line name="line1" origin="144.938304,42.216732" bounds="29.438304,29.716732,261.339104,78.381821" frontcolor="$FF" pattern="244" linetype="0" points="29.438304,29.716732,6 261.339104,29.716732,2 205.120724,78.381821,2 85.656676,78.381821,2"/>
+<line name="line2" origin="145.938304,247.216732" bounds="30.442204,180.926116,262.343,229.591209" backcolor="$FF" frontcolor="$FFFFFF" pattern="244" linetype="0" points="30.442204,229.591209,6 262.343,229.591209,2 206.124624,180.926116,2 86.660576,180.926116,2"/>
+<line name="line3" origin="58.438304,144.216732" bounds="30.442204,29.716732,86.660576,229.591209" frontcolor="$FF" pattern="242" linetype="0" points="30.442204,29.716732,6 86.660576,78.381821,2 86.660576,180.926116,2 30.442204,229.591209,2"/>
+<line name="line5" origin="232.438304,144.216732" bounds="205.120724,29.716732,261.339104,229.591209" backcolor="$FF" frontcolor="$FFFFFF" pattern="242" linetype="0" points="261.339104,29.716732,6 205.120724,78.381821,2 205.120724,180.926116,2 261.339104,229.591209,2"/>
+<rect name="rect1" origin="144.938304,144.716732" bounds="84.652776,76.643783,206.124624,182.664162" backcolor="$FBFBFF" pattern="1" linetype="0"/>
+</element>
+<element name="element9" origin="144.411004,157.716732" bounds="28.434408,41.013981,261.339104,240.888466" alpha="30">
+<line name="line1" origin="143.934408,53.513981" bounds="28.434408,41.013981,260.3352,89.679078" frontcolor="$FF" pattern="244" linetype="0" points="28.434408,41.013981,6 260.3352,41.013981,2 204.116824,89.679078,2 84.652776,89.679078,2"/>
+<line name="line2" origin="144.934408,258.513981" bounds="29.438304,192.223373,261.339104,240.888466" backcolor="$FF" frontcolor="$FFFFFF" pattern="244" linetype="0" points="29.438304,240.888466,6 261.339104,240.888466,2 205.120724,192.223373,2 85.656676,192.223373,2"/>
+<line name="line3" origin="57.434408,155.513981" bounds="29.438304,41.013981,85.656676,240.888466" frontcolor="$FF" pattern="242" linetype="0" points="29.438304,41.013981,6 85.656676,89.679078,2 85.656676,192.22337,2 29.438304,240.888466,2"/>
+<line name="line5" origin="231.434408,155.513981" bounds="204.116824,41.013981,260.3352,240.888466" backcolor="$FF" frontcolor="$FFFFFF" pattern="242" linetype="0" points="260.3352,41.013981,6 204.116824,89.679078,2 204.116824,192.22337,2 260.3352,240.888466,2"/>
+<rect name="rect1" origin="143.934408,156.013981" bounds="83.64888,87.941036,205.120724,193.961415" backcolor="$FBFBFF" pattern="1" linetype="0"/>
+</element>
+<element name="element10" origin="138.411004,149.716732" bounds="22.411004,34.061825,255.3157,233.936306" alpha="30">
+<line name="line1" origin="137.911004,46.561825" bounds="22.411004,34.061825,254.3118,82.726921" frontcolor="$FF" pattern="244" linetype="0" points="22.411004,34.061825,6 254.3118,34.061825,2 198.093432,82.726921,2 78.629381,82.726921,2"/>
+<line name="line2" origin="138.911004,251.561825" bounds="23.414904,185.271217,255.3157,233.936306" backcolor="$FF" frontcolor="$FFFFFF" pattern="244" linetype="0" points="23.414904,233.936306,6 255.3157,233.936306,2 199.097328,185.271217,2 79.63328,185.271217,2"/>
+<line name="line3" origin="51.411004,148.561825" bounds="23.414904,34.061825,79.63328,233.936306" frontcolor="$FF" pattern="242" linetype="0" points="23.414904,34.061825,6 79.63328,82.726921,2 79.63328,185.271217,2 23.414904,233.936306,2"/>
+<line name="line5" origin="225.411004,148.561825" bounds="198.093428,34.061825,254.3118,233.936306" backcolor="$FF" frontcolor="$FFFFFF" pattern="242" linetype="0" points="254.3118,34.061825,6 198.093428,82.726921,2 198.093428,185.271217,2 254.3118,233.936306,2"/>
+<rect name="rect1" origin="137.911004,149.061825" bounds="77.625485,80.988876,199.097328,187.009255" backcolor="$FBFBFF" pattern="1" linetype="0"/>
+</element>
+<element name="element11" origin="150.411004,149.716732" bounds="34.457796,34.061825,267.362495,233.936306" alpha="30">
+<line name="line1" origin="149.957797,46.561825" bounds="34.457796,34.061825,266.358596,82.726921" frontcolor="$FF" pattern="244" linetype="0" points="34.457796,34.061825,6 266.358596,34.061825,2 210.140219,82.726921,2 90.676176,82.726921,2"/>
+<line name="line2" origin="150.957797,251.561825" bounds="35.4617,185.271217,267.362495,233.936306" backcolor="$FF" frontcolor="$FFFFFF" pattern="244" linetype="0" points="35.4617,233.936306,6 267.362495,233.936306,2 211.144123,185.271217,2 91.680076,185.271217,2"/>
+<line name="line3" origin="63.457796,148.561825" bounds="35.4617,34.061825,91.680076,233.936306" frontcolor="$FF" pattern="242" linetype="0" points="35.4617,34.061825,6 91.680076,82.726921,2 91.680076,185.271217,2 35.4617,233.936306,2"/>
+<line name="line5" origin="237.457797,148.561825" bounds="210.140219,34.061825,266.358596,233.936306" backcolor="$FF" frontcolor="$FFFFFF" pattern="242" linetype="0" points="266.358596,34.061825,6 210.140219,82.726921,2 210.140219,185.271217,2 266.358596,233.936306,2"/>
+<rect name="rect1" origin="149.957797,149.061825" bounds="89.67228,80.988876,211.144123,187.009255" backcolor="$FBFBFF" pattern="1" linetype="0"/>
+</element>
+</element>
+</element>
+<text name="txt1" origin="755.428898,27.63017" bounds="0,0,292,270" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0" text="ON"/>
 </element>
 </element>
 </sheet>
