@@ -1,10 +1,11 @@
-# PLC workspace
+## Coil winding machine
 
-### This repo aims to store the plc ladder diagrams developed for machine prototypes.   
+### This repo stores the directories needed for a coil winding machine.   
 
 Be sure to meet the next requirements: 
 ```
 Samkoon HMI EA043
-PLC Mitsubishi type FX1N
-ProlificPL2303 driver
+Programmable Logic Controler Mitsubishi type FX1N
+Motor 110VAC
+Linear Actuator 24VDC
 ```
