@@ -1,10 +1,9 @@
 # PLC workspace
 
-### This repo aims to store the plc ladder diagrams developed for machine prototypes.   
+### PLC workspace storing ladder diagrams.   
 
-Be sure to meet the next requirements: 
+These are the requirements: 
 ```
-Samkoon HMI EA043
 PLC Mitsubishi type FX1N
-ProlificPL2303 driver
+GX Works 2 Software
 ```
