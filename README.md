@@ -8,4 +8,4 @@ PLC Mitsubishi type FX1N
 GX Works 2 Software
 ```
 
-Comments: Add new inductive sensor, but can´t uploaded. 
+Comments: Add new inductive sensor to winding machine, but LD wasn't able to be uploaded.
